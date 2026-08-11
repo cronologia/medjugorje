@@ -1,0 +1,210 @@
+{
+  "generatedBy": "scripts/archive-refs.js",
+  "updatedAt": "2026-08-11",
+  "snapshots": {
+    "http://theotokos.org.uk/medjugorje-revisited/": {
+      "refId": "theotokos-foley",
+      "archiveUrl": "https://web.archive.org/web/20240615102633/https://theotokos.org.uk/medjugorje-revisited/",
+      "timestamp": "20240615102633",
+      "checkedAt": "2026-08-11"
+    },
+    "http://www.medjugorje.hr/en/medjugorje-phenomenon/church/bishops/mostar/": {
+      "refId": "medjugorje-hr-bishops",
+      "archiveUrl": "https://web.archive.org/web/20170714180843/http://www.medjugorje.hr/en/medjugorje-phenomenon/church/bishops/mostar",
+      "timestamp": "20170714180843",
+      "checkedAt": "2026-08-11"
+    },
+    "http://www.miraclehunter.com/marian_apparitions/statements/medjugorje_statement_01.html": {
+      "refId": "miraclehunter-docs",
+      "archiveUrl": "https://web.archive.org/web/20251007070404/http://www.miraclehunter.com/marian_apparitions/statements/medjugorje_statement_01.html",
+      "timestamp": "20251007070404",
+      "checkedAt": "2026-08-11"
+    },
+    "https://cruxnow.com/church-in-europe/2020/10/former-spiritual-adviser-to-medjugorje-visionaries-excommunicated": {
+      "refId": "crux-vlasic-2020",
+      "archiveUrl": "https://web.archive.org/web/20251216123014/https://cruxnow.com/church-in-europe/2020/10/former-spiritual-adviser-to-medjugorje-visionaries-excommunicated",
+      "timestamp": "20251216123014",
+      "checkedAt": "2026-08-11"
+    },
+    "https://medjugorje.hr/en/": {
+      "refId": "medjugorje-hr",
+      "archiveUrl": "https://web.archive.org/web/20260607102143/https://medjugorje.hr/en/",
+      "timestamp": "20260607102143",
+      "checkedAt": "2026-08-11"
+    },
+    "https://medjugorjedocuments.blogspot.com/2008/09/truth-about-medjugorje-by-bishop-pavao.html": {
+      "refId": "medjugorjedocs-zanic-1990",
+      "archiveUrl": "https://web.archive.org/web/20260305163149/https://medjugorjedocuments.blogspot.com/2008/09/truth-about-medjugorje-by-bishop-pavao.html",
+      "timestamp": "20260305163149",
+      "checkedAt": "2026-08-11"
+    },
+    "https://medjugorjedocuments.blogspot.com/2009/07/fr-tomislav-vlasic-ofm-laicized-by-holy.html": {
+      "refId": "medjugorjedocs-vlasic-2009",
+      "archiveUrl": "https://web.archive.org/web/20250913232250/https://medjugorjedocuments.blogspot.com/2009/07/fr-tomislav-vlasic-ofm-laicized-by-holy.html",
+      "timestamp": "20250913232250",
+      "checkedAt": "2026-08-11"
+    },
+    "https://medjugorjedocuments.blogspot.com/2010/11/1975-decree-romanis-pontificibus.html": {
+      "refId": "romanis-pontificibus-text",
+      "archiveUrl": "https://web.archive.org/web/20260415162407/https://medjugorjedocuments.blogspot.com/2010/11/1975-decree-romanis-pontificibus.html",
+      "timestamp": "20260415162407",
+      "checkedAt": "2026-08-11"
+    },
+    "https://press.vatican.va/content/salastampa/en/bollettino/pubblico/2018/05/31/180531b.html": {
+      "refId": "holysee-hoser-2018",
+      "archiveUrl": "https://web.archive.org/web/20250525044323/https://press.vatican.va/content/salastampa/en/bollettino/pubblico/2018/05/31/180531b.html",
+      "timestamp": "20250525044323",
+      "checkedAt": "2026-08-11"
+    },
+    "https://press.vatican.va/content/salastampa/en/bollettino/pubblico/2024/09/19/240919i.html": {
+      "refId": "ddf-press-conf-2024",
+      "archiveUrl": "https://web.archive.org/web/20250729200416/https://press.vatican.va/content/salastampa/en/bollettino/pubblico/2024/09/19/240919i.html",
+      "timestamp": "20250729200416",
+      "checkedAt": "2026-08-11"
+    },
+    "https://press.vatican.va/content/salastampa/it/bollettino/pubblico/2010/03/17/0152/00367.html": {
+      "refId": "press-2010-ruini",
+      "archiveUrl": "https://web.archive.org/web/20260509170846/https://press.vatican.va/content/salastampa/it/bollettino/pubblico/2010/03/17/0152/00367.html",
+      "timestamp": "20260509170846",
+      "checkedAt": "2026-08-11"
+    },
+    "https://press.vatican.va/content/salastampa/it/bollettino/pubblico/2017/02/11/0092/00219.html": {
+      "refId": "press-2017-hoser",
+      "archiveUrl": "https://web.archive.org/web/20241210213036/https://press.vatican.va/content/salastampa/it/bollettino/pubblico/2017/02/11/0092/00219.html",
+      "timestamp": "20241210213036",
+      "checkedAt": "2026-08-11"
+    },
+    "https://retractionwatch.com/2013/09/23/dutch-anthropologist-mart-bax-faked-61-papers-says-university/": {
+      "refId": "retractionwatch-bax",
+      "archiveUrl": "https://web.archive.org/web/20260310151448/https://retractionwatch.com/2013/09/23/dutch-anthropologist-mart-bax-faked-61-papers-says-university/",
+      "timestamp": "20260310151448",
+      "checkedAt": "2026-08-11"
+    },
+    "https://unamsanctamcatholicam.com/2024/09/24/medjugorje-understanding-the-herzegovina-question/": {
+      "refId": "unam-sanctam-herzegovina",
+      "archiveUrl": "https://web.archive.org/web/20260412054359/https://unamsanctamcatholicam.com/2024/09/24/medjugorje-understanding-the-herzegovina-question/",
+      "timestamp": "20260412054359",
+      "checkedAt": "2026-08-11"
+    },
+    "https://wrldrels.org/2026/05/19/our-lady-of-medjugorje/": {
+      "refId": "wrsp-margry",
+      "archiveUrl": "https://web.archive.org/web/20260628211121/https://wrldrels.org/2026/05/19/our-lady-of-medjugorje/",
+      "timestamp": "20260628211121",
+      "checkedAt": "2026-08-11"
+    },
+    "https://www.bishop-accountability.org/news2009/07_08/2009_07_28_Caldwell_ExSpiritual.htm": {
+      "refId": "bishop-accountability-vlasic",
+      "archiveUrl": "https://web.archive.org/web/20250810020039/https://www.bishop-accountability.org/news2009/07_08/2009_07_28_Caldwell_ExSpiritual.htm",
+      "timestamp": "20250810020039",
+      "checkedAt": "2026-08-11"
+    },
+    "https://www.catholicculture.org/culture/library/view.cfm?recnum=317": {
+      "refId": "catholicculture-peric-1997",
+      "archiveUrl": "https://web.archive.org/web/20251012080940/https://www.catholicculture.org/culture/library/view.cfm?recnum=317",
+      "timestamp": "20251012080940",
+      "checkedAt": "2026-08-11"
+    },
+    "https://www.catholicculture.org/culture/library/view.cfm?recnum=8411": {
+      "refId": "catholicculture-vlasic-2008",
+      "archiveUrl": "https://web.archive.org/web/20220516214742/https://www.catholicculture.org/culture/library/view.cfm?recnum=8411",
+      "timestamp": "20220516214742",
+      "checkedAt": "2026-08-11"
+    },
+    "https://www.catholicculture.org/news/headlines/index.cfm?storyid=20239": {
+      "refId": "catholicculture-ruini-2014",
+      "archiveUrl": "https://web.archive.org/web/20260311213926/https://www.catholicculture.org/news/headlines/index.cfm?storyid=20239",
+      "timestamp": "20260311213926",
+      "checkedAt": "2026-08-11"
+    },
+    "https://www.catholicnewsagency.com/news/36051/medjugorje-the-findings-of-the-ruini-report": {
+      "refId": "cna-ruini-2017",
+      "archiveUrl": "https://web.archive.org/web/20250902130622/https://www.catholicnewsagency.com//news/36051/medjugorje-the-findings-of-the-ruini-report",
+      "timestamp": "20250902130622",
+      "checkedAt": "2026-08-11"
+    },
+    "https://www.catholicworldreport.com/2017/02/28/local-bishop-the-madonna-has-not-appeared-in-medjugorje/": {
+      "refId": "cwr-peric-2017",
+      "archiveUrl": "https://web.archive.org/web/20251216001045/https://www.catholicworldreport.com/2017/02/28/local-bishop-the-madonna-has-not-appeared-in-medjugorje/",
+      "timestamp": "20251216001045",
+      "checkedAt": "2026-08-11"
+    },
+    "https://www.catholicworldreport.com/2019/05/12/pope-permits-pilgrimages-to-medjugorje-as-apparitions-continue-to-be-studied/": {
+      "refId": "cwr-pilgrimages-2019",
+      "archiveUrl": "https://web.archive.org/web/20260606023116/https://www.catholicworldreport.com/2019/05/12/pope-permits-pilgrimages-to-medjugorje-as-apparitions-continue-to-be-studied/",
+      "timestamp": "20260606023116",
+      "checkedAt": "2026-08-11"
+    },
+    "https://www.catholicworldreport.com/2020/03/18/medjugorje-visionary-says-monthly-apparitions-have-come-to-an-end/": {
+      "refId": "cwr-mirjana-2020",
+      "archiveUrl": "https://web.archive.org/web/20260511122158/https://www.catholicworldreport.com/2020/03/18/medjugorje-visionary-says-monthly-apparitions-have-come-to-an-end/",
+      "timestamp": "20260511122158",
+      "checkedAt": "2026-08-11"
+    },
+    "https://www.catholicworldreport.com/2020/10/23/former-spiritual-director-of-medjugorje-visionaries-excommunicated/": {
+      "refId": "cwr-vlasic-2020",
+      "archiveUrl": "https://web.archive.org/web/20260415003327/https://www.catholicworldreport.com/2020/10/23/former-spiritual-director-of-medjugorje-visionaries-excommunicated/",
+      "timestamp": "20260415003327",
+      "checkedAt": "2026-08-11"
+    },
+    "https://www.catholicworldreport.com/2021/08/14/archbishop-henryk-hoser-papal-envoy-to-medjugorje-has-died/": {
+      "refId": "cwr-hoser-obit",
+      "archiveUrl": "https://web.archive.org/web/20251111054741/https://www.catholicworldreport.com/2021/08/14/archbishop-henryk-hoser-papal-envoy-to-medjugorje-has-died/",
+      "timestamp": "20251111054741",
+      "checkedAt": "2026-08-11"
+    },
+    "https://www.ewtnnews.com/world/europe/medjugorje-what-catholics-should-know-about-the-alleged-marian-apparitions": {
+      "refId": "cna-explainer",
+      "archiveUrl": "https://web.archive.org/web/20260128174234/https://www.ewtnnews.com/world/europe/medjugorje-what-catholics-should-know-about-the-alleged-marian-apparitions",
+      "timestamp": "20260128174234",
+      "checkedAt": "2026-08-11"
+    },
+    "https://www.marcocorvaglia.com/medjugorje-en/": {
+      "refId": "corvaglia-site",
+      "archiveUrl": "https://web.archive.org/web/20201126042153/https://www.marcocorvaglia.com/medjugorje-en/",
+      "timestamp": "20201126042153",
+      "checkedAt": "2026-08-11"
+    },
+    "https://www.medjugorje.ws/en/articles/caritas-of-birmingham/": {
+      "refId": "medjugorje-ws-caritas",
+      "archiveUrl": "https://web.archive.org/web/20260419090444/https://www.medjugorje.ws/en/articles/caritas-of-birmingham/",
+      "timestamp": "20260419090444",
+      "checkedAt": "2026-08-11"
+    },
+    "https://www.medjugorje.ws/en/articles/slavko-barbaric-ofm-curriculum-vitae/": {
+      "refId": "medjugorje-ws-barbaric",
+      "archiveUrl": "https://web.archive.org/web/20260208005849/https://www.medjugorje.ws/en/articles/slavko-barbaric-ofm-curriculum-vitae/",
+      "timestamp": "20260208005849",
+      "checkedAt": "2026-08-11"
+    },
+    "https://www.medjugorje.ws/en/messages/": {
+      "refId": "medjugorje-ws",
+      "archiveUrl": "https://web.archive.org/web/20260809123941/https://www.medjugorje.ws/en/messages/",
+      "timestamp": "20260809123941",
+      "checkedAt": "2026-08-11"
+    },
+    "https://www.ncregister.com/news/medjugorjes-alleged-visionaries": {
+      "refId": "ncregister-visionaries",
+      "archiveUrl": "https://web.archive.org/web/20260803185658/https://www.ncregister.com/news/medjugorjes-alleged-visionaries",
+      "timestamp": "20260803185658",
+      "checkedAt": "2026-08-11"
+    },
+    "https://www.vatican.va/content/francesco/en/speeches/2017/may/documents/papa-francesco_20170513_voloritorno-fatima.html": {
+      "refId": "francis-2017-flight",
+      "archiveUrl": "https://web.archive.org/web/20260302072827/https://www.vatican.va/content/francesco/en/speeches/2017/may/documents/papa-francesco_20170513_voloritorno-fatima.html",
+      "timestamp": "20260302072827",
+      "checkedAt": "2026-08-11"
+    },
+    "https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_ddf_doc_20240919_nota-esperienza-medjugorje_en.html": {
+      "refId": "ddf-note-2024",
+      "archiveUrl": "https://web.archive.org/web/20260807111659/https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_ddf_doc_20240919_nota-esperienza-medjugorje_en.html",
+      "timestamp": "20260807111659",
+      "checkedAt": "2026-08-11"
+    },
+    "https://www.vaticannews.va/en/pope/news/2019-05/pope-authorizes-pilgrimages-to-medjugorje.html": {
+      "refId": "vaticannews-2019-gisotti",
+      "archiveUrl": "https://web.archive.org/web/20260220190239/https://www.vaticannews.va/en/pope/news/2019-05/pope-authorizes-pilgrimages-to-medjugorje.html",
+      "timestamp": "20260220190239",
+      "checkedAt": "2026-08-11"
+    }
+  }
+}

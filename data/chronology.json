@@ -1,0 +1,1282 @@
+{
+  "meta": {
+    "title": "Medjugorje — Chronology",
+    "subtitle": "Chronology of the reported Marian apparitions at Medjugorje, Bosnia and Herzegovina — the reports since 1981, the Church authorities' acts about them, and the 2024 nihil obstat that expressly declares nothing about their supernatural character",
+    "description": "An open, source-referenced chronology of the reported apparitions of the Virgin Mary at Medjugorje (parish of St. James, Diocese of Mostar-Duvno, Bosnia and Herzegovina) from June 1981 to the present, and of every located Church act about them — from the diocesan commissions and the 1991 Zadar Declaration to the 2024 nihil obstat 'The Queen of Peace'.",
+    "language": "en",
+    "siteUrl": "https://cronologia.github.io/medjugorje/",
+    "lastUpdated": "2026-08-11",
+    "dataQualityNote": "Work-in-progress dataset compiled from public sources (see references). The apparitions are recorded here as REPORTED events: the dataset documents who reported what and when, and what Church authorities ruled and when — it does not assert the supernatural claim as fact, and neither, expressly, does the Church act most often read as doing so (the 2024 nihil obstat states it 'does not imply a declaration of the supernatural character of the phenomenon'). The documentary base is uneven and the dataset says where. The key pre-1998 Church texts — the Zadar Declaration of 1991, Bishop Žanić's 1990 statement, the 1987 communiqué, Cardinal Bertone's 1998 letter — have no primary institutional hosting online and are cited to labeled document mirrors; the Diocese of Mostar-Duvno's own site was unreachable from this session, so its texts also rest on mirrors and Catholic press. The Ruini commission's findings were never published: every vote figure carried here is a 2017 press leak, and is labeled as one. The seers' biographical details (births, marriages, residences, the dates their reported secrets completed) rest on devotional literature and sympathetic press, not civil or parish records. Pilgrim totals are the shrine's own registers or estimates, with no independent count. Single-source and devotional-only dates are flagged with a ? mark and a dateNote naming the problem. Contested characterizations are attributed to their authors. Corrections against primary sources are welcome.",
+    "vizChips": [
+      {
+        "href": "#approval-ladder",
+        "label": "🪜 Church acts"
+      },
+      {
+        "href": "#chronology",
+        "label": "📜 Chronology"
+      }
+    ]
+  },
+  "facts": [
+    {
+      "label": "What it is",
+      "value": "A series of Marian apparitions reported since 24–25 June 1981 by six young people of the parish of Medjugorje (Diocese of Mostar-Duvno, Herzegovina — then Yugoslavia, now Bosnia and Herzegovina), attributed by the seers to the Virgin Mary under the title 'Queen of Peace' (Kraljica Mira). Three of the six report apparitions daily to this day, which makes Medjugorje the longest-running major reported apparition in the Church's modern experience.",
+      "sources": [
+        "wrsp-margry",
+        "cna-explainer"
+      ]
+    },
+    {
+      "label": "The six seers (ages in 1981)",
+      "value": "Vicka Ivanković (16), Mirjana Dragićević (16), Ivan Dragičević (16), Marija Pavlović (16), Ivanka Ivanković (15) and Jakov Čolo (10). Most were from the hamlet of Bijakovići below Podbrdo hill; Mirjana was from Sarajevo, summering with her grandmother. Sources conflict on Ivanka's birth date (21 June vs 21 July 1966), and the seers' life details generally rest on devotional literature.",
+      "sources": [
+        "wrsp-margry",
+        "ncregister-visionaries"
+      ]
+    },
+    {
+      "label": "The parish",
+      "value": "St. James (Sv. Jakov), Medjugorje, Diocese of Mostar-Duvno — staffed then and now by Franciscans of the Herzegovinian province. That fact is central to the whole story: since Paul VI's 1975 decree Romanis Pontificibus ordered the friars to cede most Herzegovinian parishes to diocesan clergy, and many refused, the diocese and the province were already in open conflict when the reports began — the 'Herzegovina affair' against which critics read Medjugorje's rise.",
+      "sources": [
+        "wrsp-margry",
+        "romanis-pontificibus-text",
+        "unam-sanctam-herzegovina"
+      ]
+    },
+    {
+      "label": "Reported ongoing apparitions (as of 2024)",
+      "value": "Vicka, Ivan and Marija report daily apparitions; Mirjana reports one annually on 18 March, Ivanka annually on 25 June, Jakov annually at Christmas. Marija reports a public 'message to the world' every 25th of the month, published by the shrine. Mirjana's additional 2nd-of-the-month apparitions, reported from 1987, ended by her own announcement in March 2020. All of this is the seers' report, published by the shrine; no Church act authenticates any message's origin.",
+      "sources": [
+        "ncregister-visionaries",
+        "medjugorje-hr",
+        "cwr-mirjana-2020",
+        "ddf-note-2024"
+      ]
+    },
+    {
+      "label": "The 'ten secrets' (as reported)",
+      "value": "In the reported structure, each seer is to receive ten secrets concerning future events, and a seer's daily apparitions cease when the tenth is received. Mirjana reported completing hers on 25 December 1982, Ivanka on 7 May 1985, Jakov on 12 September 1998; Vicka, Ivan and Marija report nine each. A promised visible 'sign' on Podbrdo hill is part of the reported structure. All dates in this scheme are seer-reported and carried by devotional literature.",
+      "sources": [
+        "ncregister-visionaries",
+        "cna-explainer"
+      ]
+    },
+    {
+      "label": "Church status — the bottom line",
+      "value": "No Church authority has ever declared the apparitions supernatural. The operative judgment from 1991 to 2024 was the Zadar Declaration of the Yugoslav bishops: 'On the basis of the investigations so far it can not be affirmed that one is dealing with supernatural apparitions and revelations' (non constat de supernaturalitate). On 19 September 2024 the Dicastery for the Doctrine of the Faith granted a nihil obstat to devotion connected with Medjugorje — while stating in the same document that this 'does not imply a declaration of the supernatural character of the phenomenon'.",
+      "sources": [
+        "miraclehunter-docs",
+        "ewtn-zadar",
+        "ddf-note-2024"
+      ]
+    },
+    {
+      "label": "Scale, with the counters named",
+      "value": "The only hard series is self-reported: the shrine's own registers, as quoted by the DDF at its 19 September 2024 press conference, record 47.4 million Communions distributed between January 1985 and June 2024 and over a million concelebrating priests. Yearly pilgrim estimates diverge — about 1 million per year in web-based estimates cited at the same press conference, against about 3 million claimed by Archbishop Hoser before the pandemic — and the circulating '40+ million pilgrims since 1981' has no counting authority behind it. No independent count exists.",
+      "sources": [
+        "ddf-press-conf-2024",
+        "cna-explainer"
+      ]
+    },
+    {
+      "label": "Who publishes the 'messages'",
+      "value": "The official channel is the parish's Information Centre 'Mir' Medjugorje (medjugorje.hr), which publishes the monthly messages and the shrine statistics. The 2024 DDF Note instructs that the texts always be treated as 'alleged messages', requires the Apostolic Visitor's approval for the publication of any future ones, and orders the Note itself printed as the introduction to any collection of them. The widely-read sites medjugorje.com and medjugorje.org are unaffiliated devotional operations — medjugorje.com belongs to the contested 'Caritas of Birmingham' (see disambiguation).",
+      "sources": [
+        "medjugorje-hr",
+        "ddf-note-2024",
+        "nbc-caritas-2012",
+        "medjugorje-ws-caritas"
+      ]
+    },
+    {
+      "label": "Governance today",
+      "value": "Since 2018 the parish has had an Apostolic Visitor of a special character, appointed ad nutum Sanctae Sedis (at the Holy See's pleasure) with 'an exclusively pastoral office': Archbishop Henryk Hoser from May 2018 until his death in August 2021, Archbishop Aldo Cavalli since November 2021. The office was created alongside, not in place of, the Diocese of Mostar-Duvno's ordinary jurisdiction.",
+      "sources": [
+        "holysee-hoser-2018",
+        "ddf-press-conf-2024"
+      ]
+    },
+    {
+      "label": "What Medjugorje is NOT",
+      "value": "Not an apparition 'approved as supernatural'. The 2024 nihil obstat certifies spiritual fruits and authorizes public devotion; the DDF's own Norms state (art. 23) that as a rule neither the diocesan bishop, nor the episcopal conferences, nor the Dicastery will declare such phenomena to be of supernatural origin. Headlines of the form 'Vatican approves Medjugorje apparitions' misreport the act.",
+      "sources": [
+        "ddf-note-2024",
+        "ddf-norms-2024"
+      ]
+    }
+  ],
+  "approvalLadder": {
+    "note": "Each rung is one authority's act about one object, at one date, citing the document — and the objects are never merged. Three recur here and must be kept apart: the supernatural character of the reported apparitions and messages, which no authority has ever affirmed and which the 2024 Norms say will, as a rule, never be declared; worship, devotion and pilgrimage at Medjugorje, which is what the pastoral acts of 2017–2024 regulate and encourage; and named persons, whose judgments are their own rungs. The operative judgment on the first object was, from 1991 to 2024, the Zadar Declaration's 'it can not be affirmed' — and the 2024 nihil obstat, the most favourable act in the file, says in its own text that it 'does not imply a declaration of the supernatural character of the phenomenon'. Informal spoken statements — Bishop Žanić's 1981 'the children are not lying', Pope Francis's 2017 in-flight remarks — appear in the chronology but not on this ladder, because they are not acts of judgment. Several of the acts below survive only on labeled document mirrors; the rung text says which.",
+    "stages": [
+      {
+        "label": "Diocese of Mostar-Duvno — the commissions on the apparitions",
+        "when": "1982–1986",
+        "who": "Bishop Pavao Žanić of Mostar-Duvno: a four-member diocesan commission from 1982, enlarged to fifteen members in 1984.",
+        "status": "negative",
+        "outcome": "Bishop Žanić — who in 1981 had publicly defended the children's sincerity ('I am convinced: the children are not lying!', sermon of 25 July 1981, per the shrine's own site) — established a commission of inquiry in 1982 and enlarged it in 1984. Its final vote, in 1986, is known only through the bishop's own 1990 published account: '11 of the members said that there is nothing supernatural in the events of Medjugorje, 2 (franciscans) claimed that the apparitions are authentic, 1 member said that there was something \"in nucleo\" (in the beginning) and 1 abstained.' The commission's report itself was never published. The commonly cited dates — establishment 11 January 1982, final vote 2 May 1986 — were not verified against any document for this dataset. The bishop's 1981-to-1984 reversal has two competing explanations in the literature: sympathetic sources say secret-police pressure, critical sources point to the Ivica Vego affair and the taped early interviews. Both are perspectives, recorded here as such.",
+        "sources": [
+          "medjugorjedocs-zanic-1990",
+          "ewtn-zadar",
+          "medjugorje-hr-bishops"
+        ]
+      },
+      {
+        "label": "Kuharić–Žanić communiqué — the case leaves the diocese; pilgrimages motivated by the supernatural claim barred",
+        "when": "9 January 1987",
+        "who": "Cardinal Franjo Kuharić of Zagreb and Bishop Pavao Žanić, jointly, at the suggestion of the Congregation for the Doctrine of the Faith; published in Glas Koncila, 18 January 1987.",
+        "status": "inconclusive",
+        "outcome": "The joint communiqué transferred the judgment of the case from the diocesan commission to a commission of the Yugoslav Bishops' Conference, with interim discipline: 'it is not permitted either to organize pilgrimages or to arrange other manifestations motivated by the supernatural character which might be attributed to the Medjugorje events.' Two objects in one act: jurisdiction over the judgment moved up, and worship motivated by the unjudged claim was restricted in the meantime. No primary document is online; the text is cited from labeled mirrors.",
+        "sources": [
+          "ewtn-zadar"
+        ]
+      },
+      {
+        "label": "Bp. Žanić, 'The Truth About Medjugorje' — a published position, not a decree",
+        "when": "1990",
+        "who": "Bishop Pavao Žanić of Mostar-Duvno, after jurisdiction over the judgment had passed to the Bishops' Conference commission in 1987.",
+        "status": "negative",
+        "outcome": "The bishop's published statement is unambiguous about his own conclusion: 'I have at least 20 reasons not to believe… the apparitions are not of the supernatural', and 'It is a terrible sin to attribute one's own lies to Our Lady.' It is quoted here as what it is — the ordinary's published personal position, issued when the canonical judgment no longer lay with him — and not as a decree of the diocese. The text survives on a labeled document-mirror blog; a second mirror returned 503 when checked for this dataset.",
+        "sources": [
+          "medjugorjedocs-zanic-1990"
+        ]
+      },
+      {
+        "label": "Bishops' Conference of Yugoslavia — the Zadar Declaration on the apparitions",
+        "when": "10 April 1991",
+        "who": "The Bishops' Conference of Yugoslavia, meeting at Zadar; the vote is reported as 19 in favour with 1 abstention — a figure from secondary accounts, not the declaration text.",
+        "status": "inconclusive",
+        "outcome": "The operative sentence: 'On the basis of the investigations so far, it can not be affirmed that one is dealing with supernatural apparitions and revelations' — the classic non constat de supernaturalitate, which leaves the question open in both directions. The same declaration mandated pastoral care: gatherings of the faithful at Medjugorje 'require the pastoral attention and care, first of all, of the local Bishop… so that… a healthy devotion towards the Blessed Virgin Mary according to the teachings of the Church may be promoted.' This remained the ecclesial judgment the CDF itself cited for more than three decades, until 2024. No primary conference archive is online; the text is cited from labeled mirrors.",
+        "sources": [
+          "miraclehunter-docs",
+          "ewtn-zadar"
+        ]
+      },
+      {
+        "label": "Bp. Perić — 'constat de non supernaturalitate', his stated conviction",
+        "when": "1997–2017",
+        "who": "Bishop Ratko Perić of Mostar-Duvno (1993–2020), Žanić's successor.",
+        "status": "negative",
+        "outcome": "Perić went further than Zadar and said so in writing: 'my conviction and position is not only non constat de supernaturalitate but also the other formula constat de non supernaturalitate' (letter to Thierry Boutet of Famille Chrétienne, 2 October 1997). On 26 February 2017, on the diocesan site, he stated of the first seven days of reports: 'the Madonna has not appeared in Medjugorje! This is the truth that we sustain…', presenting it as 'the position of this Curia throughout this period'. The weight of these statements is itself the standing dispute: the CDF wrote in 1998 that the Mostar bishop's declaration 'should be considered the expression of the personal conviction of the Bishop of Mostar which he has the right to express as Ordinary of the place, but which is and remains his personal opinion', while Perić's 2017 text presents it as the Curia's position. Both characterizations are documented; this page records both and resolves neither. The diocesan site was unreachable from this session; the 2017 quote is carried via Catholic press.",
+        "sources": [
+          "catholicculture-peric-1997",
+          "cwr-peric-2017",
+          "miraclehunter-docs"
+        ]
+      },
+      {
+        "label": "CDF (Abp. Bertone) — the standing judgment confirmed; private pilgrimages",
+        "when": "26 May 1998",
+        "who": "Archbishop Tarcisio Bertone, Secretary of the Congregation for the Doctrine of the Faith, letter to Bishop Gilbert Aubry of Saint-Denis-de-la-Réunion (Prot. 154/81-06419).",
+        "status": "inconclusive",
+        "outcome": "Three points, each about a distinct object. On the apparitions' credibility, the CDF deferred to Zadar 1991, quoting its non-constat sentence and noting that competence now lay with the Bishops' Conference of Bosnia-Herzegovina. On Bishop Perić's harder formula, it ruled that his declaration 'is and remains his personal opinion'. And on worship: private pilgrimages 'are permitted on condition that they are not regarded as an authentication of events still taking place and which still call for an examination by the Church.' The letter is not on vatican.va; it is cited from labeled mirrors.",
+        "sources": [
+          "miraclehunter-docs",
+          "ewtn-zadar"
+        ]
+      },
+      {
+        "label": "Rome — the person of Fr. Tomislav Vlašić (not the apparitions)",
+        "when": "2008–2020",
+        "who": "The Congregation for the Doctrine of the Faith (Cardinal Levada; decree published through the Diocese of Mostar-Duvno), Pope Benedict XVI, and the CDF again in 2020.",
+        "status": "negative",
+        "outcome": "This rung judges a man, not the events, and is kept separate for exactly that reason. The CDF's decree of 25 January 2008 (Prot. 144/1985) against Fr. Tomislav Vlašić OFM — widely described as the seers' early 'spiritual director', a label the Mostar chancery and critics dispute — cites 'diffusion of dubious doctrine, manipulation of consciences, suspected mysticism, disobedience towards legitimately issued orders', acts contra sextum and 'suspicion of heresy and schism', imposes assigned residence and prohibits contact with his 'Kraljice Mira' community. In March 2009, at his own petition, Benedict XVI laicized him, dismissed him from the Franciscans and remitted the censure (made public 24 July 2009). On 15 July 2020 a CDF decree declared him excommunicated for continuing to pose as a priest and simulate sacraments; the decree itself was not directly reached and is cited from the Diocese of Brescia's announcement as reported. Nothing in any of these acts adjudicates the apparitions.",
+        "sources": [
+          "catholicculture-vlasic-2008",
+          "bishop-accountability-vlasic",
+          "medjugorjedocs-vlasic-2009",
+          "cwr-vlasic-2020",
+          "crux-vlasic-2020"
+        ]
+      },
+      {
+        "label": "The Ruini commission — findings on the apparitions delivered, never published",
+        "when": "2010–2014; votes leaked 2017",
+        "who": "The international commission of inquiry on Medjugorje constituted at the CDF under Cardinal Camillo Ruini by Benedict XVI, announced 17 March 2010.",
+        "status": "reported-undocumented",
+        "outcome": "The commission's existence, chairmanship, reserved procedure and delivery are documented: the 2010 Holy See communiqué (which names no members — the reported composition is press reporting) states it would work 'in maniera riservata', submitting its findings to the Congregation; the final meeting and delivery of 17–18 January 2014 were announced to journalists by the press office. The findings themselves have never been published. What circulates — 13 votes in favour, 1 against, 1 suspensive on the supernatural character of the first seven appearances (24 June–3 July 1981), and a majority of suspensive votes with 'many doubts' on the phenomenon from late 1981 onward — is Andrea Tornielli's leak of 16 May 2017, never confirmed by publication, partially echoed by Pope Francis's own in-flight remarks three days earlier and by the 2024 Note's reference to divergent prior studies. Every vote figure on this rung is the leak's.",
+        "noDocument": "The report has never been published, and no press bulletin exists even for its delivery: press.vatican.va was checked for 17 and 18 January 2014 and carries no item — the record is the press office's statements to journalists as carried by Catholic media. The commission's membership beyond Ruini likewise rests on press reporting, not on the 2010 communiqué.",
+        "sources": [
+          "press-2010-ruini",
+          "catholicculture-ruini-2014",
+          "cna-ruini-2017",
+          "francis-2017-flight"
+        ]
+      },
+      {
+        "label": "CDF via Nuncio Viganò — events presuming the apparitions' credibility (a discipline, not a verdict)",
+        "when": "21 October 2013",
+        "who": "Nuncio Carlo Maria Viganò, writing to the USCCB general secretary at the request of CDF Prefect Gerhard Müller.",
+        "status": "inconclusive",
+        "outcome": "Pending the CDF's evaluation of the case, 'clerics and the faithful are not permitted to participate in meetings, conferences or public celebrations during which the credibility of such \"apparitions\" would be taken for granted' — occasioned by seer Ivan Dragičević's scheduled appearances in US parishes, and reiterating Zadar as the operative judgment. A restriction on worship-adjacent events while the judgment was pending, not a ruling on the events. Cited from a labeled document mirror.",
+        "sources": [
+          "miraclehunter-docs"
+        ]
+      },
+      {
+        "label": "Holy See — the Hoser missions: 'an exclusively pastoral character' (not the apparitions)",
+        "when": "11 February 2017 and 31 May 2018",
+        "who": "Pope Francis, through the Secretariat of State: Archbishop Henryk Hoser as Special Envoy (2017), then as Apostolic Visitor of a special character for the parish, ad nutum Sanctae Sedis (2018).",
+        "status": "adjacent",
+        "outcome": "Both acts say in their own text what they are not. The 2017 communiqué states the envoy's mission 'will therefore have an exclusively pastoral character'; the 2018 communiqué appoints the Visitor 'a tempo indeterminato e ad nutum Sanctae Sedis' for 'un incarico esclusivamente pastorale' — an exclusively pastoral office. These acts organize the care of pilgrims at a shrine; they presuppose the devotion and expressly exclude the question of the apparitions. That is why the rung is marked adjacent rather than favourable.",
+        "sources": [
+          "press-2017-hoser",
+          "holysee-hoser-2018",
+          "cwr-hoser-obit"
+        ]
+      },
+      {
+        "label": "Holy See — official pilgrimages authorized (expressly not an authentication)",
+        "when": "12 May 2019",
+        "who": "Pope Francis; announced at Medjugorje by Nuncio Luigi Pezzuto and Archbishop Hoser; interim press office director Alessandro Gisotti supplied the official caveat.",
+        "status": "adjacent",
+        "outcome": "Dioceses and parishes may now organize official pilgrimages to Medjugorje. The act's own frame, per Gisotti, is pastoral and explicitly non-adjudicating: care must be taken 'to prevent these pilgrimages from being interpreted as an authentication of known events, which still require examination by the Church', avoiding 'confusion or ambiguity from the doctrinal point of view'; the authorization 'is part of the particular pastoral attention that the Holy Father intended to give to that reality, aimed at encouraging and promoting the fruits of good.' No press-office bulletin exists for the day; the textual record is Vatican News.",
+        "sources": [
+          "vaticannews-2019-gisotti",
+          "cwr-pilgrimages-2019"
+        ]
+      },
+      {
+        "label": "DDF — nihil obstat, 'The Queen of Peace': devotion authorized, supernaturality expressly not declared",
+        "when": "19 September 2024 (approved by Pope Francis 28 August 2024)",
+        "who": "The Dicastery for the Doctrine of the Faith — Cardinal Víctor Manuel Fernández, Prefect, and Msgr. Armando Matteo, Secretary for the Doctrinal Section — under the Norms of 17 May 2024.",
+        "status": "favourable",
+        "outcome": "The Note 'The Queen of Peace' grants the nihil obstat, the ordinary favourable outcome under the 2024 Norms, and defines it in its own §38: the faithful 'are authorized to give it their adherence in a prudent manner… While this does not imply a declaration of the supernatural character of the phenomenon in question (cf. Norms, art. 22, §2)—and recalling that the faithful are not obliged to believe in it—the Nihil obstat indicates that the faithful can receive a positive encouragement for their Christian life through this spiritual proposal, and it authorizes public acts of devotion.' On the messages: 'the positive assessment that most of the messages of Medjugorje are edifying does not imply a declaration that they have a direct supernatural origin', so one should always speak of 'alleged messages'; 'some less important or unclear texts should be read with prudence'; future messages require the Apostolic Visitor's approval before publication, and the Note must be printed as the introduction to any collection. The object of this favourable act is the devotion and the spiritual experience around it. For the apparitions themselves the Norms' art. 23 states that, as a rule, no authority — bishop, conference or Dicastery — will declare such phenomena supernatural: on that object, the terminal status is stated in the document itself, by design.",
+        "sources": [
+          "ddf-note-2024",
+          "ddf-press-conf-2024",
+          "ddf-norms-2024"
+        ]
+      }
+    ]
+  },
+  "events": [
+    {
+      "year": 1975,
+      "date": "1975-06-06",
+      "dateVerified": true,
+      "place": "Rome",
+      "title": "Romanis Pontificibus: the decree behind the 'Herzegovina affair'",
+      "text": "Paul VI's decree Romanis Pontificibus orders the Herzegovinian Franciscans to cede most parishes of the Diocese of Mostar-Duvno to diocesan clergy; many friars refuse. The resulting standoff between the province and the bishops of Mostar — the 'Herzegovina affair' — is the institutional conflict already burning when the Medjugorje reports begin six years later, and the frame within which critics (and Bishop Žanić himself) read the Franciscan-run parish's embrace of the phenomenon. The decree text is cited from a document-archive blog, there being no primary hosting online.",
+      "sources": [
+        "romanis-pontificibus-text",
+        "unam-sanctam-herzegovina",
+        "perica-balkan-idols"
+      ]
+    },
+    {
+      "year": 1981,
+      "date": "1981-06-24",
+      "dateVerified": true,
+      "place": "Podbrdo hill, Bijakovići, Medjugorje",
+      "title": "First reported sighting",
+      "text": "On the feast of St. John the Baptist, two — then four — young people report seeing a luminous female figure on the hill Podbrdo (on the slope called Crnica) and identify her as the Virgin Mary. This is the first reported sighting; the shrine's official anniversary is the following day, when the group of six first reported seeing her together. Both dates circulate as 'the' date in different sources, and this chronology carries both events explicitly.",
+      "sources": [
+        "wrsp-margry",
+        "cna-explainer"
+      ]
+    },
+    {
+      "year": 1981,
+      "date": "1981-06-25",
+      "dateVerified": true,
+      "place": "Podbrdo hill, Bijakovići, Medjugorje",
+      "title": "The six report their first apparition together — the anniversary date",
+      "text": "Vicka Ivanković, Mirjana Dragićević, Ivan Dragičević, Marija Pavlović, Ivanka Ivanković and Jakov Čolo report seeing the figure together for the first time. 25 June is the date the shrine keeps as the anniversary of the apparitions, and the date of Ivanka's reported annual apparition since 1985.",
+      "sources": [
+        "wrsp-margry",
+        "cna-explainer"
+      ]
+    },
+    {
+      "year": 1981,
+      "date": "1981-06-26",
+      "dateVerified": true,
+      "place": "Podbrdo hill, Bijakovići, Medjugorje",
+      "title": "Crowds gather; the reported message of 'peace'; police and doctors respond",
+      "text": "Some 2,000 people gather on the hill. The seers report the figure's words, summarized in the tradition as 'peace, peace, and only peace', and the title 'Queen of Peace' (Kraljica Mira) enters the reports — reported, never Church-authenticated as to origin. In the following days (27–29 June, per the accounts gathered by sympathetic chroniclers) the communist authorities interview the children and have them medically and psychiatrically examined at Mostar; the examinations are reported to have found them sound. The examination reports themselves are known through the devotional literature, not through located records.",
+      "sources": [
+        "wrsp-margry",
+        "kraljevic-1984"
+      ]
+    },
+    {
+      "year": 1981,
+      "date": "1981-07-25",
+      "dateVerified": false,
+      "dateNote": "The dates and texts of Bishop Žanić's early statements — the 25 July 1981 confirmation sermon and the 16 August 1981 Glas Koncila interview — are reachable only via the shrine's own website, which pairs them with a contested 'secret-police pressure' explanation of his later reversal. No primary 1981 document was reached.",
+      "place": "Medjugorje",
+      "title": "Bishop Žanić's first public words: 'the children are not lying' — spoken statements, not an act",
+      "text": "Preaching at a confirmation in Medjugorje, Bishop Pavao Žanić of Mostar-Duvno says: 'I am convinced: the children are not lying!' In a Glas Koncila interview published 16 August 1981 he adds: 'It is definite that the children were not incited by anyone, and especially not by the church, to lie.' These are informal statements of the ordinary about the seers' sincerity, not acts of judgment on the apparitions — and within three years the same bishop will become the phenomenon's most vocal episcopal critic. The reversal has two competing explanations in the literature (police pressure per sympathetic sources; the Ivica Vego affair and the taped early interviews per critical ones), recorded here as perspectives.",
+      "sources": [
+        "medjugorje-hr-bishops",
+        "corvaglia-site"
+      ]
+    },
+    {
+      "year": 1981,
+      "date": "1981-08-17",
+      "dateVerified": true,
+      "place": "Medjugorje",
+      "title": "Pastor Jozo Zovko arrested; the state moves against the gatherings",
+      "text": "Fr. Jozo Zovko OFM, pastor of St. James — initially skeptical of the children, by now their defender — is arrested by the Yugoslav authorities; the friary is searched, and the state moves to suppress the gatherings on Podbrdo. The apparition reports continue in the church and elsewhere.",
+      "sources": [
+        "wrsp-margry"
+      ]
+    },
+    {
+      "year": 1981,
+      "date": "1981-10-21",
+      "dateVerified": false,
+      "dateNote": "The one-day trial date rests on tertiary and devotional summaries; sources split between a sentence of 3 and 3.5 years, and between release in 'February 1983' and 'after about 18 months'. No primary court document was reached; the best academic anchor is Perica.",
+      "place": "Mostar",
+      "title": "Zovko tried and sentenced",
+      "text": "In a one-day trial at Mostar, Fr. Jozo Zovko is convicted over a sermon read as a 'nationalist plot' against the socialist state and sentenced to imprisonment — reported as 3 or 3.5 years depending on the source — and released early, reportedly in February 1983. The prosecution of the pastor, weeks into the reports, fixed the phenomenon's early framing as a confrontation between the parish and the communist state.",
+      "sources": [
+        "wrsp-margry",
+        "perica-balkan-idols"
+      ]
+    },
+    {
+      "year": 1982,
+      "date": "1982–1986",
+      "dateVerified": false,
+      "dateNote": "The commonly cited dates — commission established 11 January 1982, enlarged 1984, final vote 2 May 1986 — were not verified against any document for this dataset; the commission's work is attested in Bishop Žanić's own 1990 published statement, via a labeled mirror.",
+      "place": "Mostar",
+      "title": "The diocesan commissions investigate — and the 1986 vote is negative, per the bishop's own account",
+      "text": "Bishop Žanić establishes a four-member diocesan commission of inquiry in 1982 and enlarges it to fifteen members in 1984. Its final vote, per Žanić's 1990 statement: 11 members found nothing supernatural, 2 (Franciscans) held the apparitions authentic, 1 found something 'in nucleo', 1 abstained. The commission's report was never published — the vote is known only through the bishop's published account, and this dataset cites it as such.",
+      "sources": [
+        "medjugorjedocs-zanic-1990",
+        "ewtn-zadar"
+      ]
+    },
+    {
+      "year": 1982,
+      "date": "1982–1984",
+      "dateVerified": false,
+      "dateNote": "The assignment years are per archived Catholic press reporting on the later CDF case; they are not pinned to personnel documents. How formal his role with the seers ever was is disputed between the common label and the Mostar chancery.",
+      "place": "Medjugorje",
+      "title": "Fr. Tomislav Vlašić at the parish — the contested 'spiritual director'",
+      "text": "Fr. Tomislav Vlašić OFM serves at the Medjugorje parish and becomes widely described as the seers' first 'spiritual director' — the label used in CDF-related reporting decades later, and disputed by the Mostar chancery and by critics as to how formal the role ever was. He leaves for Italy in the 1980s and founds a mixed community there; the Church acts about him (2008, 2009, 2020) are acts about the man and are recorded separately in this chronology.",
+      "sources": [
+        "bishop-accountability-vlasic"
+      ]
+    },
+    {
+      "year": 1982,
+      "date": "1982-12-25",
+      "dateVerified": false,
+      "dateNote": "Seer-reported; the date is carried by devotional literature and sympathetic press, not by any independent record.",
+      "place": "Medjugorje",
+      "title": "Mirjana reports her tenth secret; her daily apparitions end",
+      "text": "Mirjana Dragićević reports receiving the tenth of the ten secrets and, per the reported structure, her daily apparitions cease — the first of the six for whom this happens. She reports thereafter an annual apparition on 18 March, and, from 1987, apparitions on the 2nd of each month 'for unbelievers'.",
+      "sources": [
+        "ncregister-visionaries",
+        "cna-explainer"
+      ]
+    },
+    {
+      "year": 1984,
+      "date": "1984-03-01",
+      "dateVerified": false,
+      "dateNote": "Both message-series start dates — the weekly Thursday messages 'to the parish' from 1 March 1984, and the 25th-of-the-month 'message to the world' from 25 January 1987 — rest on devotional literature only.",
+      "place": "Medjugorje",
+      "title": "The reported message series begin: weekly to the parish (1984), monthly 'to the world' (1987)",
+      "text": "From 1 March 1984, per the devotional record, the seers report weekly Thursday messages addressed to the parish; from 25 January 1987 the series becomes the monthly 'message to the world' reported through Marija Pavlović on the 25th of each month — the series the shrine still publishes. The 2024 DDF Note will later require that all such texts be presented as 'alleged messages' and subject future publication to the Apostolic Visitor's approval.",
+      "sources": [
+        "medjugorje-ws",
+        "ddf-note-2024"
+      ]
+    },
+    {
+      "year": 1987,
+      "date": "1987-01-09",
+      "dateVerified": true,
+      "place": "Zagreb",
+      "title": "The case passes to the Yugoslav Bishops' Conference; interim pilgrimage discipline",
+      "text": "Cardinal Franjo Kuharić and Bishop Žanić jointly announce — in a communiqué published in Glas Koncila on 18 January — that at the CDF's suggestion the judgment of the Medjugorje events passes from the diocesan commission to a commission of the Yugoslav Bishops' Conference. Interim discipline in the same act: 'it is not permitted either to organize pilgrimages or to arrange other manifestations motivated by the supernatural character which might be attributed to the Medjugorje events.' No primary document is online; the text is cited from labeled mirrors.",
+      "sources": [
+        "ewtn-zadar"
+      ]
+    },
+    {
+      "year": 1987,
+      "date": "1987-08-02",
+      "dateVerified": true,
+      "place": "Medjugorje",
+      "title": "Mirjana's reported 2nd-of-the-month apparitions begin",
+      "text": "Mirjana (by then Mirjana Soldo) reports the start of apparitions on the 2nd of each month, described in the devotion as prayer 'for unbelievers'. The series will run — with large public gatherings at the Blue Cross in later years — until her announcement of its end on 18 March 2020.",
+      "sources": [
+        "cwr-mirjana-2020"
+      ]
+    },
+    {
+      "year": 1988,
+      "date": "1988-11",
+      "dateVerified": false,
+      "dateNote": "The month is per NBC News's 2012 retrospective report; the trip is consistently dated to late 1988 in press accounts, but no contemporary record was reached.",
+      "place": "Birmingham, Alabama, USA",
+      "title": "Marija in Alabama: the origin of the contested 'Caritas of Birmingham' connection",
+      "text": "Marija Pavlović travels to the Birmingham area to donate a kidney to her brother, hosted by layman Terry Colafrancesco — the founder of 'Caritas of Birmingham' (Sterrett, Alabama), who styles himself 'A Friend of Medjugorje'. The visit is the origin of the American organization's claimed connection to the apparitions. Caritas of Birmingham is not affiliated with the Medjugorje shrine, the Catholic Church or Caritas Internationalis; its later history — a bar on priests celebrating Mass there, ex-member lawsuits and cult allegations, settled privately — is documented in secular reporting, and even the sympathetic Medjugorje WebSite maintains warning dossiers on it (see disambiguation).",
+      "sources": [
+        "nbc-caritas-2012",
+        "medjugorje-ws-caritas"
+      ]
+    },
+    {
+      "year": 1990,
+      "date": "1990-05",
+      "dateVerified": false,
+      "dateNote": "The English release of the statement is dated May 1990; the text is reachable only on a labeled document-mirror blog (a second mirror returned 503 when checked). No primary diocesan hosting exists online.",
+      "place": "Mostar",
+      "title": "Žanić publishes 'The Truth About Medjugorje'",
+      "text": "Bishop Žanić publishes his statement 'The Truth About Medjugorje': 'I have at least 20 reasons not to believe… the apparitions are not of the supernatural'; 'It is a terrible sin to attribute one's own lies to Our Lady.' By this date jurisdiction over the judgment had passed to the Bishops' Conference commission (1987), so the text is the ordinary's published personal position, not a canonical pronouncement — a distinction the CDF itself would make about his successor's identical stance in 1998.",
+      "sources": [
+        "medjugorjedocs-zanic-1990"
+      ]
+    },
+    {
+      "year": 1991,
+      "date": "1991-04-10",
+      "dateVerified": true,
+      "place": "Zadar",
+      "title": "The Zadar Declaration: 'it can not be affirmed' — the operative judgment for 33 years",
+      "text": "The Bishops' Conference of Yugoslavia declares: 'On the basis of the investigations so far, it can not be affirmed that one is dealing with supernatural apparitions and revelations' — non constat de supernaturalitate — while mandating pastoral care for the pilgrims who come: gatherings at Medjugorje 'require the pastoral attention and care, first of all, of the local Bishop… so that… a healthy devotion towards the Blessed Virgin Mary according to the teachings of the Church may be promoted.' The reported vote of 19 for and 1 abstaining comes from secondary accounts, not the declaration text, and no primary conference archive is online. This remained the judgment the CDF cited for over three decades, until the 2024 Note.",
+      "sources": [
+        "miraclehunter-docs",
+        "ewtn-zadar"
+      ]
+    },
+    {
+      "year": 1991,
+      "date": "1991–1995",
+      "dateVerified": false,
+      "dateNote": "The military-control details and the aid-hub role rest on tertiary and devotional sources and are flagged; the devotional 'spared by miracle' narratives are excluded as legend. One much-cited ethnographic account of a wartime 'little war' at Medjugorje is excluded for a harder reason: its author, Mart Bax, was found by a 2013 VU Amsterdam inquiry to have 'very likely' fabricated his data.",
+      "place": "Medjugorje / Yugoslavia",
+      "title": "War: pilgrimage collapses; the village becomes a refugee and aid hub",
+      "text": "With the breakup of Yugoslavia and the Bosnian war, organized pilgrimage collapses. Medjugorje falls within Croat-held (HVO) territory and, from 1993, the unrecognized 'Herzeg-Bosnia'; the village itself is largely spared major destruction and functions, per the accounts available, as a refugee haven and a distribution hub for pilgrim-funded humanitarian aid, with some pilgrims and convoys still arriving. The details of that role are dominated by devotional and tertiary sources and are recorded with that caveat. The academic literature on wartime Medjugorje carries its own warning label: Mart Bax's ethnography of a Medjugorje 'little war' — complete with a body count and razed hamlets — was found 'very likely' fabricated by the 2013 VU Amsterdam integrity inquiry, and is not used as a fact source here.",
+      "sources": [
+        "perica-balkan-idols",
+        "retractionwatch-bax"
+      ]
+    },
+    {
+      "year": 1997,
+      "date": "1997-10-02",
+      "dateVerified": true,
+      "place": "Mostar",
+      "title": "Bishop Perić: 'constat de non supernaturalitate'",
+      "text": "Bishop Ratko Perić of Mostar-Duvno writes to Thierry Boutet of Famille Chrétienne: 'my conviction and position is not only non constat de supernaturalitate but also the other formula constat de non supernaturalitate' — that it is established the events are not supernatural. He states it explicitly as his conviction and position as bishop. The CDF will classify the statement's weight a year later: the personal opinion of the ordinary, not the Church's judgment. The letter is cited from a labeled document mirror.",
+      "sources": [
+        "catholicculture-peric-1997"
+      ]
+    },
+    {
+      "year": 1998,
+      "date": "1998-05-26",
+      "dateVerified": true,
+      "place": "Rome",
+      "title": "The Bertone letter: Zadar stands; Perić's view is 'his personal opinion'; private pilgrimages permitted",
+      "text": "Archbishop Tarcisio Bertone, CDF Secretary, answers Bishop Gilbert Aubry of Réunion (Prot. 154/81-06419) in three points: on credibility the CDF defers to Zadar 1991, competence now lying with the Bishops' Conference of Bosnia-Herzegovina; Bishop Perić's harder declaration 'should be considered the expression of the personal conviction of the Bishop of Mostar which he has the right to express as Ordinary of the place, but which is and remains his personal opinion'; and private pilgrimages 'are permitted on condition that they are not regarded as an authentication of events still taking place and which still call for an examination by the Church.' The letter is not on vatican.va and is cited from labeled mirrors.",
+      "sources": [
+        "miraclehunter-docs",
+        "ewtn-zadar"
+      ]
+    },
+    {
+      "year": 1998,
+      "date": "1998-09-12",
+      "dateVerified": false,
+      "dateNote": "Seer-reported; the date is carried by devotional literature and sympathetic press.",
+      "place": "Medjugorje",
+      "title": "Jakov reports his tenth secret; his daily apparitions end",
+      "text": "Jakov Čolo, the youngest of the six, reports receiving the tenth secret; per the reported structure his daily apparitions cease, and he reports thereafter one annual apparition at Christmas. Of the six, Vicka, Ivan and Marija continue to report daily apparitions.",
+      "sources": [
+        "ncregister-visionaries"
+      ]
+    },
+    {
+      "year": 2000,
+      "date": "2000-11-24",
+      "dateVerified": false,
+      "dateNote": "The date and the biographical details are from the devotional curriculum vitae on medjugorje.ws; the death was widely reported at the time, but no independent source is cited in this dataset.",
+      "place": "Mt. Križevac, Medjugorje",
+      "title": "Fr. Slavko Barbarić dies on Križevac",
+      "text": "Fr. Slavko Barbarić OFM — the Herzegovinian Franciscan with a doctorate in religious pedagogy who had been the seers' spiritual guide since the mid-1980s, and who built much of Medjugorje's pastoral apparatus (the fasting seminars, the Mother's Village orphanage) — collapses and dies at 54 after leading the Way of the Cross on Mt. Križevac. In the devotion his death on the mountain is heavily storied; this dataset records the date and place as reported by the devotional source that carries his life data.",
+      "sources": [
+        "medjugorje-ws-barbaric"
+      ]
+    },
+    {
+      "year": 2008,
+      "date": "2008-01-25",
+      "dateVerified": true,
+      "place": "Rome / Mostar",
+      "title": "CDF decree against Vlašić — an act about the man, not the apparitions",
+      "text": "The Congregation for the Doctrine of the Faith issues a decree (Prot. 144/1985, Cardinal Levada and Archbishop Amato) against Fr. Tomislav Vlašić, published by the Diocese of Mostar-Duvno under a CDF authorization letter of 30 May 2008. The grounds: 'diffusion of dubious doctrine, manipulation of consciences, suspected mysticism, disobedience towards legitimately issued orders', acts contra sextum, and 'suspicion of heresy and schism'; he had incurred an interdict latae sententiae. Measures include assigned residence in Lombardy and a prohibition of all contact with his 'Kraljice Mira' community. The decree judges a person's doctrine and conduct — not the apparitions — and this chronology keeps the two objects apart.",
+      "sources": [
+        "catholicculture-vlasic-2008",
+        "bishop-accountability-vlasic"
+      ]
+    },
+    {
+      "year": 2009,
+      "date": "2009-03-10",
+      "dateVerified": true,
+      "place": "Rome",
+      "title": "Vlašić laicized at his own request",
+      "text": "Benedict XVI grants Tomislav Vlašić's own petition for dispensation: laicization, dismissal from the Franciscan order and remission of the censure (OFM notification prot. 098714 to the provincial ministers; the papal letter is dated 10 March 2009 and the act was made public on 24 July 2009). An act of grace about a man who requested it — again not a judgment on the apparitions, though press coverage habitually ran the two together.",
+      "sources": [
+        "bishop-accountability-vlasic",
+        "medjugorjedocs-vlasic-2009",
+        "cna-vlasic-2009"
+      ]
+    },
+    {
+      "year": 2010,
+      "date": "2010-03-17",
+      "dateVerified": true,
+      "place": "Rome",
+      "title": "Benedict XVI constitutes the Ruini commission",
+      "text": "The Holy See Press Office announces that an international commission of inquiry on Medjugorje has been constituted at the CDF under Cardinal Camillo Ruini, to work 'in maniera riservata' (in a reserved manner) and submit the results of its study to the Congregation. The communiqué names no members; the composition that circulates (Cardinals Tomko, Puljić, Bozanić, Herranz, Amato, plus experts) is press reporting, not the act.",
+      "sources": [
+        "press-2010-ruini",
+        "cna-explainer"
+      ]
+    },
+    {
+      "year": 2013,
+      "date": "2013-10-21",
+      "dateVerified": true,
+      "place": "Washington, D.C., USA",
+      "title": "The Viganò letter: no events that presume the apparitions' credibility",
+      "text": "At the request of CDF Prefect Gerhard Müller, Nuncio Carlo Maria Viganò writes to the general secretary of the USCCB: pending the CDF's evaluation, 'clerics and the faithful are not permitted to participate in meetings, conferences or public celebrations during which the credibility of such \"apparitions\" would be taken for granted.' The letter — occasioned by seer Ivan Dragičević's scheduled appearances in US parishes — reiterates Zadar 1991 as the operative judgment, and is cited from a labeled document mirror.",
+      "sources": [
+        "miraclehunter-docs"
+      ]
+    },
+    {
+      "year": 2014,
+      "date": "2014-01-18",
+      "dateVerified": true,
+      "place": "Rome",
+      "title": "The Ruini commission delivers its findings — and they are never published",
+      "text": "The commission holds its final meeting on 17–18 January 2014 and delivers its findings to the CDF, as announced to journalists by press office director Fr. Federico Lombardi. No press bulletin exists for either day — press.vatican.va was checked for 17 and 18 January 2014 for this dataset and carries no item; the record is Catholic press reporting the press office's statements. The report itself has never been published: everything later said about its contents is leak (see 2017).",
+      "sources": [
+        "catholicculture-ruini-2014"
+      ]
+    },
+    {
+      "year": 2017,
+      "date": "2017-02-11",
+      "dateVerified": true,
+      "place": "Rome",
+      "title": "Hoser named Special Envoy — 'an exclusively pastoral character'",
+      "text": "Pope Francis sends Archbishop Henryk Hoser of Warszawa-Praga to Medjugorje as Special Envoy of the Holy See. The Secretariat of State's communiqué defines the mandate in its own words: the mission 'will therefore have an exclusively pastoral character' — to study the pastoral situation and the needs of the pilgrims, expressly not to enter the question of the apparitions, which remained with the CDF.",
+      "sources": [
+        "press-2017-hoser",
+        "cwr-hoser-obit"
+      ]
+    },
+    {
+      "year": 2017,
+      "date": "2017-02-26",
+      "dateVerified": true,
+      "place": "Mostar",
+      "title": "Perić on the first seven days: 'the Madonna has not appeared in Medjugorje'",
+      "text": "Two weeks after the Hoser appointment, Bishop Perić posts a statement on the diocesan site examining the first seven days of the 1981 reports and concluding: 'the Madonna has not appeared in Medjugorje! This is the truth that we sustain…' — presented as 'the position of this Curia throughout this period'. The standing dispute is right there in the wording: Perić frames the negative judgment as the Curia's position, while the CDF's 1998 letter had classified the Mostar bishop's judgment as his personal opinion. Both characterizations are documented; neither is resolved here. The diocesan site (md-tm.ba) was unreachable from this session; the quote is carried via Catholic World Report.",
+      "sources": [
+        "cwr-peric-2017",
+        "miraclehunter-docs"
+      ]
+    },
+    {
+      "year": 2017,
+      "date": "2017-05-13",
+      "dateVerified": true,
+      "place": "Papal flight from Fátima / Rome",
+      "title": "Francis praises the Ruini report in flight — and its reported votes leak three days later",
+      "text": "Returning from Fátima, Pope Francis tells journalists 'The Ruini report is very, very good', distinguishes the first apparitions from the continuing ones — about which he voices 'doubts': 'I prefer Our Lady to be a Mother… and not a telegraph operator who sends out a message every day' — while acknowledging the 'spiritual and pastoral fact' of conversions at Medjugorje. These are non-magisterial spoken remarks, not an act of judgment. On 16 May Andrea Tornielli (Vatican Insider/La Stampa) publishes the commission's reported votes: 13 in favour, 1 against, 1 suspensive on the supernatural character of the first seven appearances (24 June–3 July 1981), and a majority of suspensive votes with 'many doubts' on the phenomenon from late 1981 onward. The votes are leak journalism, never confirmed by publication of the report — partially corroborated only by the pope's own remarks and by the 2024 Note's reference to divergent prior studies — and every use of them in this dataset is labeled as leak-reported.",
+      "sources": [
+        "francis-2017-flight",
+        "cna-ruini-2017"
+      ]
+    },
+    {
+      "year": 2018,
+      "date": "2018-05-31",
+      "dateVerified": true,
+      "place": "Rome",
+      "title": "Hoser appointed Apostolic Visitor, ad nutum Sanctae Sedis",
+      "text": "The Holy See appoints Archbishop Hoser Apostolic Visitor of a special character for the parish of Medjugorje, 'a tempo indeterminato e ad nutum Sanctae Sedis' — for an indeterminate period, at the Holy See's pleasure — describing the role as 'un incarico esclusivamente pastorale', an exclusively pastoral office. The Visitor's office institutionalizes Rome's pastoral presence at the shrine while leaving the judgment of the apparitions untouched.",
+      "sources": [
+        "holysee-hoser-2018"
+      ]
+    },
+    {
+      "year": 2019,
+      "date": "2019-05-12",
+      "dateVerified": true,
+      "place": "Medjugorje / Rome",
+      "title": "Official pilgrimages authorized — 'not… an authentication'",
+      "text": "Pope Francis authorizes dioceses and parishes to organize official pilgrimages to Medjugorje, announced at the shrine by Nuncio Luigi Pezzuto and Archbishop Hoser. Interim press office director Alessandro Gisotti supplies the official caveat: care must be taken 'to prevent these pilgrimages from being interpreted as an authentication of known events, which still require examination by the Church', avoiding 'confusion or ambiguity from the doctrinal point of view'; the authorization 'is part of the particular pastoral attention that the Holy Father intended to give to that reality, aimed at encouraging and promoting the fruits of good.' No press-office bulletin exists for the day — the textual record is Vatican News.",
+      "sources": [
+        "vaticannews-2019-gisotti",
+        "cwr-pilgrimages-2019"
+      ]
+    },
+    {
+      "year": 2020,
+      "date": "2020-03-18",
+      "dateVerified": true,
+      "place": "Medjugorje",
+      "title": "Mirjana announces the end of the 2nd-of-the-month apparitions",
+      "text": "During her reported annual 18 March apparition, Mirjana Soldo announces that the 2nd-of-the-month apparitions she had reported since August 1987 have ended. The announcement came the same day COVID-19 gathering bans took hold; devotional outlets treat the timing as coincidence, skeptics note it pointedly. Both readings are on record; this dataset reports the announcement, its date, and the coincidence, and asserts neither reading.",
+      "sources": [
+        "cwr-mirjana-2020"
+      ]
+    },
+    {
+      "year": 2020,
+      "date": "2020-07-15",
+      "dateVerified": true,
+      "place": "Rome / Brescia",
+      "title": "Vlašić declared excommunicated",
+      "text": "A CDF decree of 15 July 2020 declares Tomislav Vlašić excommunicated for continuing to pose as a priest and simulate sacraments after his 2009 laicization; the Diocese of Brescia, where he had been active, announces the decree in October 2020. The decree itself was not directly reached for this dataset and is cited as reported by Catholic press. The last of the three Roman acts about the man — and, like the others, no judgment on the apparitions.",
+      "sources": [
+        "cwr-vlasic-2020",
+        "crux-vlasic-2020"
+      ]
+    },
+    {
+      "year": 2021,
+      "date": "2021-08-13",
+      "dateVerified": true,
+      "place": "Warsaw",
+      "title": "Archbishop Hoser dies in office",
+      "text": "Archbishop Henryk Hoser SAC — physician, Pallottine missionary in Rwanda for two decades, Bishop of Warszawa-Praga 2008–2017, and the Holy See's man in Medjugorje since 2017 — dies in Warsaw aged 78, still Apostolic Visitor.",
+      "sources": [
+        "cwr-hoser-obit"
+      ]
+    },
+    {
+      "year": 2021,
+      "date": "2021-11-27",
+      "dateVerified": false,
+      "dateNote": "The appointment date is per the Holy See daily bulletin of 27 November 2021, which was not directly reached for this dataset; Cavalli's role is confirmed as of 2024 by the DDF press conference. Flagged until the bulletin is cited directly.",
+      "place": "Rome",
+      "title": "Cavalli appointed Apostolic Visitor",
+      "text": "Pope Francis appoints Archbishop Aldo Cavalli — a career Vatican diplomat, formerly nuncio to the Netherlands among other posts — Apostolic Visitor of a special character for Medjugorje, ad nutum Sanctae Sedis, succeeding the late Archbishop Hoser. Cavalli holds the office through the 2024 nihil obstat, which assigns the Visitor new duties over the publication of reported messages.",
+      "sources": [
+        "ddf-press-conf-2024"
+      ]
+    },
+    {
+      "year": 2024,
+      "date": "2024-09-19",
+      "dateVerified": true,
+      "place": "Rome",
+      "title": "The DDF Note 'The Queen of Peace': nihil obstat — and expressly not a supernaturality declaration",
+      "text": "The Dicastery for the Doctrine of the Faith publishes the Note 'The Queen of Peace', approved by Pope Francis in audience on 28 August 2024 and signed by Cardinal Víctor Manuel Fernández and Msgr. Armando Matteo. Under the 2024 Norms it grants a nihil obstat to the spiritual experience connected with Medjugorje: the faithful 'are authorized to give it their adherence in a prudent manner', public acts of devotion are authorized — 'While this does not imply a declaration of the supernatural character of the phenomenon in question… and recalling that the faithful are not obliged to believe in it'. The messages must always be described as 'alleged messages'; 'some less important or unclear texts should be read with prudence'; future messages require the Apostolic Visitor's approval before publication, and the Note itself must preface any collection. At the presentation press conference the DDF quoted the shrine's own registers — 47.4 million Communions since 1985 — as the scale of the devotion being regulated. The most favourable Church act in Medjugorje's history, and its own text is the primary witness to what it does not decide.",
+      "sources": [
+        "ddf-note-2024",
+        "ddf-press-conf-2024",
+        "ddf-norms-2024"
+      ]
+    }
+  ],
+  "figures": [
+    {
+      "name": "Vicka Ivanković-Mijatović",
+      "role": "Reported seer, the oldest of the six (16 in 1981); reports daily apparitions to this day and nine of the ten secrets. Married, two children, living at Krehin Gradac near Medjugorje — life details, like all the seers', from devotional literature and sympathetic press",
+      "dates": "b. 3 September 1964, Bijakovići",
+      "country": "Bosnia and Herzegovina",
+      "sources": [
+        "ncregister-visionaries",
+        "wrsp-margry"
+      ]
+    },
+    {
+      "name": "Mirjana Dragićević-Soldo",
+      "role": "Reported seer (16 in 1981), from Sarajevo; the first to report all ten secrets (25 December 1982). Reports an annual apparition each 18 March; her reported 2nd-of-the-month apparitions ran from 1987 until her 2020 announcement of their end. Married to Marko Soldo, two daughters, lives in Medjugorje",
+      "dates": "b. 18 March 1965, Sarajevo",
+      "country": "Bosnia and Herzegovina",
+      "sources": [
+        "ncregister-visionaries",
+        "cwr-mirjana-2020"
+      ]
+    },
+    {
+      "name": "Ivan Dragičević",
+      "role": "Reported seer (16 in 1981); reports daily apparitions and nine secrets. Married American Laureen Murphy, four children; divides the year between the Boston area and Medjugorje — his US parish appearances occasioned the 2013 Viganò letter. Marriage and residence details from devotional biographies and sympathetic press, with no civil-record verification",
+      "dates": "b. 25 May 1965, Bijakovići",
+      "country": "Bosnia and Herzegovina / USA",
+      "sources": [
+        "ncregister-visionaries",
+        "miraclehunter-docs"
+      ]
+    },
+    {
+      "name": "Marija Pavlović-Lunetti",
+      "role": "Reported seer (16 in 1981); reports daily apparitions, nine secrets, and the public 25th-of-the-month 'message to the world'. Donated a kidney to her brother in Alabama in 1988 — the visit behind the contested 'Caritas of Birmingham' connection. Married Paolo Lunetti of Monza (1993 or 1994, per devotional sources), four children, lives near Milan",
+      "dates": "b. 1 April 1965, Bijakovići",
+      "country": "Bosnia and Herzegovina / Italy",
+      "sources": [
+        "ncregister-visionaries",
+        "nbc-caritas-2012"
+      ]
+    },
+    {
+      "name": "Ivanka Ivanković-Elez",
+      "role": "Reported seer (15 in 1981) — the first to report seeing the figure on 24 June 1981. Her daily apparitions ended with her reported tenth secret on 7 May 1985; she reports one annual apparition each 25 June. Lives in the Medjugorje parish, married, three children. Her birth date is disputed: 21 June 1966 (Margry/WRSP) vs 21 July 1966 (NC Register), with devotional sites split the same way",
+      "dates": "b. 1966 (day disputed), Bijakovići",
+      "country": "Bosnia and Herzegovina",
+      "sources": [
+        "wrsp-margry",
+        "ncregister-visionaries"
+      ]
+    },
+    {
+      "name": "Jakov Čolo",
+      "role": "Reported seer, the youngest (10 in 1981); reported his tenth secret on 12 September 1998 and since then one annual apparition at Christmas. Lives in Medjugorje, married to an Italian, three children",
+      "dates": "b. 6 March 1971, Bijakovići",
+      "country": "Bosnia and Herzegovina",
+      "sources": [
+        "ncregister-visionaries"
+      ]
+    },
+    {
+      "name": "Fr. Jozo Zovko, OFM",
+      "role": "Pastor of St. James in June 1981 — initially skeptical of the children, then their defender; arrested 17 August 1981, tried and imprisoned by the communist authorities (sentence reported as 3 or 3.5 years; released early), later a globally travelling Medjugorje preacher. His later canonical situation — reported faculty restrictions in the 1990s–2000s — is contested between devotional defenders and the Mostar chancery, and is left flagged here",
+      "dates": "b. 1941",
+      "country": "Bosnia and Herzegovina",
+      "sources": [
+        "wrsp-margry",
+        "corvaglia-site"
+      ]
+    },
+    {
+      "name": "Tomislav Vlašić",
+      "role": "Franciscan assigned to Medjugorje in the early 1980s, widely described as the seers' first 'spiritual director' (a label whose formality the Mostar chancery and critics dispute); moved to Italy and founded the mixed community 'Kraljice mira'. Subject of the three Roman person-acts in this chronology: the 2008 CDF disciplinary decree, laicization at his own request in 2009, and the 2020 declaration of excommunication for simulated ministry. None of the acts judges the apparitions",
+      "dates": "b. 1942",
+      "country": "Bosnia and Herzegovina / Italy",
+      "sources": [
+        "bishop-accountability-vlasic",
+        "catholicculture-vlasic-2008",
+        "cwr-vlasic-2020"
+      ]
+    },
+    {
+      "name": "Fr. Slavko Barbarić, OFM",
+      "role": "Herzegovinian Franciscan, doctorate in religious pedagogy; the seers' spiritual guide from the mid-1980s and the builder of Medjugorje's pastoral apparatus — fasting seminars, the Mother's Village orphanage. Died on Mt. Križevac after leading the Way of the Cross. Life data from the devotional curriculum vitae on medjugorje.ws",
+      "dates": "11 March 1946 – 24 November 2000",
+      "country": "Bosnia and Herzegovina",
+      "sources": [
+        "medjugorje-ws-barbaric"
+      ]
+    },
+    {
+      "name": "Bp. Pavao Žanić",
+      "role": "Bishop of Mostar-Duvno 1980–1993. Publicly defended the seers' sincerity in 1981 ('the children are not lying'), then became the phenomenon's most vocal episcopal critic; convened the diocesan commissions (1982–1986) and published 'The Truth About Medjugorje' (1990) after jurisdiction had passed to the Bishops' Conference. His reversal has two competing explanations in the literature — police pressure (sympathetic sources) or the Ivica Vego affair and the taped early interviews (critical sources) — recorded as perspectives",
+      "dates": "1918–2000",
+      "country": "Bosnia and Herzegovina",
+      "sources": [
+        "medjugorjedocs-zanic-1990",
+        "medjugorje-hr-bishops",
+        "ewtn-zadar"
+      ]
+    },
+    {
+      "name": "Bp. Ratko Perić",
+      "role": "Bishop of Mostar-Duvno 1993–2020. Held publicly that the events are established not supernatural (constat de non supernaturalitate, 1997) and that 'the Madonna has not appeared in Medjugorje' (2017) — a judgment the CDF classified in 1998 as the ordinary's personal opinion, and which Perić himself presented as the position of his Curia. Both characterizations are documented; the dataset records both",
+      "dates": "b. 1944",
+      "country": "Bosnia and Herzegovina",
+      "sources": [
+        "catholicculture-peric-1997",
+        "cwr-peric-2017",
+        "miraclehunter-docs"
+      ]
+    },
+    {
+      "name": "Abp. Henryk Hoser, SAC",
+      "role": "Physician, Pallottine missionary in Rwanda 1975–96, Bishop of Warszawa-Praga 2008–2017; papal Special Envoy to Medjugorje from 2017 and Apostolic Visitor of a special character from 2018 until his death — both mandates defined in their own acts as exclusively pastoral. Pre-pandemic he put pilgrim numbers at about 3 million a year, a figure the 2024 DDF press conference juxtaposed with web estimates of about 1 million",
+      "dates": "1942 – 13 August 2021",
+      "country": "Poland",
+      "sources": [
+        "cwr-hoser-obit",
+        "holysee-hoser-2018",
+        "ddf-press-conf-2024"
+      ]
+    },
+    {
+      "name": "Abp. Aldo Cavalli",
+      "role": "Career Vatican diplomat (nuncio to the Netherlands, among other posts); Apostolic Visitor of a special character for Medjugorje since November 2021, ad nutum Sanctae Sedis, in office through the 2024 nihil obstat — which gives the Visitor approval authority over the publication of any future reported messages",
+      "dates": "b. 18 October 1946, Lecco",
+      "country": "Italy",
+      "sources": [
+        "ddf-press-conf-2024",
+        "ddf-note-2024"
+      ]
+    }
+  ],
+  "organizations": [
+    {
+      "name": "Parish of St. James / Sanctuary 'Queen of Peace', Medjugorje",
+      "founded": "Parish of the Diocese of Mostar-Duvno, staffed by Herzegovinian Franciscans",
+      "place": "Medjugorje, Bosnia and Herzegovina",
+      "relation": "The site of the reported apparitions and the object of every pastoral act in this chronology. The 2024 DDF Note attaches its nihil obstat to devotion practiced there, with the Apostolic Visitor as oversight; the parish's Franciscan staffing — against the background of the 1975 Romanis Pontificibus handover dispute — is the institutional fault line of the whole story.",
+      "sources": [
+        "ddf-note-2024",
+        "wrsp-margry",
+        "romanis-pontificibus-text"
+      ]
+    },
+    {
+      "name": "Diocese of Mostar-Duvno",
+      "founded": "Ancient see; the local ordinary's jurisdiction covers Medjugorje",
+      "place": "Mostar, Bosnia and Herzegovina",
+      "relation": "The competent local Church authority: its bishops ran the first commissions (Žanić, 1982–1986) and maintained the negative position (Perić, 1997–2017) that the CDF classified as the ordinary's personal opinion. The diocesan site was unreachable from this session (see context.md); its texts are cited from mirrors and Catholic press.",
+      "sources": [
+        "ewtn-zadar",
+        "catholicculture-peric-1997",
+        "cwr-peric-2017"
+      ]
+    },
+    {
+      "name": "Herzegovinian Franciscan Province (Assumption of the BVM)",
+      "founded": "Custody since Ottoman times; province seated at Mostar",
+      "place": "Mostar, Bosnia and Herzegovina",
+      "relation": "Held most Herzegovinian parishes for centuries; the 1975 decree Romanis Pontificibus ordering handovers to diocesan clergy, and many friars' refusal, is the 'Herzegovina affair' backdrop against which critics read Medjugorje's rise. Both of the parish's storied early figures, Zovko and Vlašić, appear in the disobedience dossiers per critical accounts — an attributed reading, recorded as such.",
+      "sources": [
+        "romanis-pontificibus-text",
+        "unam-sanctam-herzegovina",
+        "perica-balkan-idols"
+      ]
+    },
+    {
+      "name": "Information Centre 'Mir' Medjugorje",
+      "founded": "The shrine's own information office",
+      "place": "Medjugorje, Bosnia and Herzegovina",
+      "relation": "Operates the official shrine site medjugorje.hr, publishes the monthly reported messages and the pilgrimage program, and keeps the Communion and concelebration registers — the self-reported statistics the Vatican itself quoted at the 2024 press conference. Sympathetic by nature; cited as the shrine's own voice.",
+      "sources": [
+        "medjugorje-hr",
+        "ddf-press-conf-2024"
+      ]
+    },
+    {
+      "name": "'Caritas of Birmingham' (Sterrett, Alabama)",
+      "founded": "1986, by layman Terry Colafrancesco",
+      "place": "Sterrett, Alabama, USA",
+      "relation": "SEPARATE and contested — included here to disambiguate, not as part of the shrine's story. Founded by Colafrancesco ('A Friend of Medjugorje'), it hosted Marija Pavlović from 1988 and runs a large publishing operation including the site medjugorje.com, which is not an official Medjugorje site. It is not affiliated with the Medjugorje shrine, the Catholic Church, or Caritas Internationalis; the local bishop barred priests from celebrating Mass there, and ex-members' lawsuits and cult allegations are on record (settled privately). Even the sympathetic Medjugorje WebSite maintains warning dossiers on it.",
+      "sources": [
+        "nbc-caritas-2012",
+        "medjugorje-ws-caritas"
+      ]
+    },
+    {
+      "name": "'Kraljice mira, potpuno tvoji' (Vlašić's community)",
+      "founded": "1980s, Italy, by Tomislav Vlašić",
+      "place": "Italy",
+      "relation": "The mixed community founded by Vlašić after he left Medjugorje. The 2008 CDF decree against him prohibited all contact with the community; it figures in this chronology only as the object of that prohibition, in an act about the man.",
+      "sources": [
+        "catholicculture-vlasic-2008",
+        "bishop-accountability-vlasic"
+      ]
+    }
+  ],
+  "disambiguation": {
+    "note": "Medjugorje has one of the largest devotional literatures of any modern reported apparition, and the distinctions below are the ones most often flattened in it — starting with what the 2024 Roman act does and does not say.",
+    "items": [
+      {
+        "title": "The 2024 nihil obstat is not a declaration that Our Lady appeared",
+        "text": "The DDF's Note 'The Queen of Peace' says so itself, in the sentence that grants the favour: through the nihil obstat the faithful 'are authorized to give it their adherence in a prudent manner… While this does not imply a declaration of the supernatural character of the phenomenon in question (cf. Norms, art. 22, §2)—and recalling that the faithful are not obliged to believe in it—the Nihil obstat indicates that the faithful can receive a positive encouragement for their Christian life through this spiritual proposal, and it authorizes public acts of devotion.' That is not a hedge added by this page; it is the act's own definition of itself. The underlying rule is the Norms of 17 May 2024, art. 23: as a rule, neither the diocesan bishop, nor the episcopal conferences, nor the Dicastery will declare that these phenomena are of supernatural origin. What the 2024 act judges favourably is the devotion and its fruits; the apparitions' supernatural character is the question the Church has now said it does not, as a rule, answer. Headlines of the form 'Vatican approves the Medjugorje apparitions' misreport the document they cite.",
+        "sources": [
+          "ddf-note-2024",
+          "ddf-norms-2024"
+        ]
+      },
+      {
+        "title": "Caritas of Birmingham and medjugorje.com are not the Medjugorje shrine",
+        "text": "'Caritas of Birmingham' (Sterrett, Alabama, founded 1986 by Terry Colafrancesco, 'A Friend of Medjugorje') is not affiliated with the Medjugorje parish or shrine, with the Catholic Church, or with the Caritas Internationalis confederation whose name it echoes. Its site medjugorje.com — one of the highest-traffic Medjugorje addresses — is not an official Medjugorje site; the official channel is the parish's Information Centre 'Mir' at medjugorje.hr, and the US 'Medjugorje Web' at medjugorje.org is likewise an unaffiliated devotional operation. The Alabama organization's record — the local bishop's bar on priests celebrating Mass there, ex-members' lawsuits and cult allegations, settled privately — is documented in secular reporting, and warning dossiers on it are maintained even by the sympathetic devotional site medjugorje.ws. An organization's domain name is not a chain of custody.",
+        "sources": [
+          "nbc-caritas-2012",
+          "medjugorje-ws-caritas",
+          "medjugorje-hr"
+        ]
+      },
+      {
+        "title": "'Messages' means 'alleged messages' — by Rome's own instruction",
+        "text": "The monthly 'messages to the world' and the older message series are the seers' reports, published by the shrine; no Church act authenticates their origin. The 2024 Note makes the required framing explicit: 'the positive assessment that most of the messages of Medjugorje are edifying does not imply a declaration that they have a direct supernatural origin. Consequently, when referring to \"messages\" from Our Lady, one should always bear in mind that they are \"alleged messages\"'; 'some less important or unclear texts should be read with prudence'. The same Note requires the Apostolic Visitor's approval for the publication of any future messages, and orders the Note itself printed as the introduction to any collection of them. This dataset follows that usage throughout: every message is a reported message.",
+        "sources": [
+          "ddf-note-2024"
+        ]
+      },
+      {
+        "title": "The acts about Tomislav Vlašić judge a man, not the apparitions",
+        "text": "Three Roman acts concern Vlašić: the CDF's disciplinary decree of 25 January 2008 (dubious doctrine, manipulation of consciences, suspected mysticism, disobedience, acts contra sextum, suspicion of heresy and schism), his laicization at his own request in 2009, and the 2020 declaration of excommunication for continuing to simulate priestly ministry. They are acts about his doctrine and conduct. They are routinely cited in polemics as if they were a Roman verdict on Medjugorje — in both directions: as discrediting the apparitions (he was the seers' early 'spiritual director', a label whose formality is itself disputed), or as needing to be minimized to protect them. The dataset keeps the object of each act named: a person's case is not an apparition's case, in either direction.",
+        "sources": [
+          "catholicculture-vlasic-2008",
+          "bishop-accountability-vlasic",
+          "cwr-vlasic-2020"
+        ]
+      },
+      {
+        "title": "The bishops of Mostar's 'no' is documented — and so is the Holy See's classification of it",
+        "text": "Bishops Žanić (1990) and Perić (1997, 2006, 2017) published unambiguous negative judgments — Perić going to constat de non supernaturalitate, 'the Madonna has not appeared in Medjugorje'. The CDF's 1998 Bertone letter states that the Mostar bishop's declaration 'is and remains his personal opinion', the operative judgment being the Yugoslav bishops' 1991 non constat; Perić's 2017 text presents the negative judgment as 'the position of this Curia throughout this period'. Devotional apologetics quotes the CDF's classification to dismiss the bishops; critical literature quotes the bishops as if they were the Church's verdict. Both moves flatten a documented, unresolved tension. This dataset carries both texts, attributed, and resolves nothing.",
+        "sources": [
+          "miraclehunter-docs",
+          "catholicculture-peric-1997",
+          "cwr-peric-2017"
+        ]
+      },
+      {
+        "title": "24 June or 25 June 1981 — both dates are 'the first apparition', about different things",
+        "text": "24 June is the first reported sighting (two, then four, young people); 25 June is the first reported apparition to the group of six together, and the date the shrine keeps as the official anniversary. Both dates appear as 'the' date in different sources, and the difference is not an error in either — it is two events. The chronology carries both explicitly.",
+        "sources": [
+          "wrsp-margry",
+          "cna-explainer"
+        ]
+      },
+      {
+        "title": "The Ruini votes are a leak, not a published finding",
+        "text": "The figures everyone quotes — 13 votes to 1 (with 1 suspensive) in favour of the supernatural character of the first seven appearances, doubts about everything after — come from Andrea Tornielli's report of 16 May 2017, not from any published document. The commission's constitution (2010) and the delivery of its findings (January 2014) are documented; the findings themselves have never been published, and no press bulletin exists even for the delivery. Pope Francis's 'the Ruini report is very, very good' three days before the leak is the nearest thing to official corroboration, and it is a spoken remark. Wherever this dataset mentions the votes, it labels them leak-reported.",
+        "sources": [
+          "cna-ruini-2017",
+          "press-2010-ruini",
+          "catholicculture-ruini-2014",
+          "francis-2017-flight"
+        ]
+      }
+    ]
+  },
+  "references": [
+    {
+      "id": "ddf-note-2024",
+      "title": "'The Queen of Peace' — Note About the Spiritual Experience Connected with Medjugorje (19 September 2024)",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_ddf_doc_20240919_nota-esperienza-medjugorje_en.html",
+      "publisher": "Dicastery for the Doctrine of the Faith, Holy See",
+      "type": "official",
+      "publisherNote": "The act itself, on vatican.va — primary for everything the 2024 nihil obstat does and, just as importantly, for what its own text says it does not do."
+    },
+    {
+      "id": "ddf-norms-2024",
+      "title": "Norms for Proceeding in the Discernment of Alleged Supernatural Phenomena (17 May 2024)",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_ddf_doc_20240517_norme-fenomeni-soprannaturali_en.html",
+      "publisher": "Dicastery for the Doctrine of the Faith, Holy See",
+      "type": "official",
+      "publisherNote": "The Church's current procedure for judging reported apparitions, in force since 19 May 2024 and the basis of the Medjugorje Note. Cited for the rules it states — art. 22 §2 (a nihil obstat implies no supernaturality declaration) and art. 23 (as a rule, no authority will declare such phenomena supernatural)."
+    },
+    {
+      "id": "ddf-press-conf-2024",
+      "title": "Press conference presenting the Note 'The Queen of Peace' (19 September 2024)",
+      "url": "https://press.vatican.va/content/salastampa/en/bollettino/pubblico/2024/09/19/240919i.html",
+      "publisher": "Holy See Press Office",
+      "type": "official",
+      "publisherNote": "Source of the pilgrim and Communion statistics cited in this dataset — all of them the shrine's own registers or estimates, quoted by the Dicastery. The page renders minimal content without JavaScript; a Wayback snapshot is recommended."
+    },
+    {
+      "id": "press-2010-ruini",
+      "title": "Comunicato: Commissione internazionale di inchiesta su Medjugorje (17 March 2010)",
+      "url": "https://press.vatican.va/content/salastampa/it/bollettino/pubblico/2010/03/17/0152/00367.html",
+      "publisher": "Holy See Press Office",
+      "type": "official",
+      "publisherNote": "The constituting communiqué, primary and verbatim — it names Cardinal Ruini and the reserved procedure, and names no other members. Needs a browser User-Agent to fetch."
+    },
+    {
+      "id": "press-2017-hoser",
+      "title": "Comunicato: Inviato Speciale della Santa Sede per Medjugorje (11 February 2017)",
+      "url": "https://press.vatican.va/content/salastampa/it/bollettino/pubblico/2017/02/11/0092/00219.html",
+      "publisher": "Holy See Press Office",
+      "type": "official",
+      "publisherNote": "The Special Envoy communiqué, primary — source of the 'carattere esclusivamente pastorale' wording. Needs a browser User-Agent to fetch."
+    },
+    {
+      "id": "holysee-hoser-2018",
+      "title": "Communiqué: Apostolic Visitor of a special character for the parish of Medjugorje (31 May 2018)",
+      "url": "https://press.vatican.va/content/salastampa/en/bollettino/pubblico/2018/05/31/180531b.html",
+      "publisher": "Holy See Press Office",
+      "type": "official",
+      "publisherNote": "The Apostolic Visitor appointment, primary — 'ad nutum Sanctae Sedis', 'an exclusively pastoral office'."
+    },
+    {
+      "id": "francis-2017-flight",
+      "title": "Press conference on the return flight from Fátima (13 May 2017)",
+      "url": "https://www.vatican.va/content/francesco/en/speeches/2017/may/documents/papa-francesco_20170513_voloritorno-fatima.html",
+      "publisher": "Holy See — official transcript",
+      "type": "official",
+      "publisherNote": "Primary transcript of spoken, non-magisterial remarks — cited as the pope's attributed words about the Ruini report and the continuing apparitions, not as an act of judgment."
+    },
+    {
+      "id": "vaticannews-2019-gisotti",
+      "title": "Pope authorizes pilgrimages to Medjugorje (12 May 2019)",
+      "url": "https://www.vaticannews.va/en/pope/news/2019-05/pope-authorizes-pilgrimages-to-medjugorje.html",
+      "publisher": "Vatican News",
+      "type": "news",
+      "publisherNote": "The Holy See's own media outlet, and the only textual record of the Gisotti caveat — no press-office bulletin exists for the day. Returns 403 to plain fetches; needs a browser User-Agent."
+    },
+    {
+      "id": "miraclehunter-docs",
+      "title": "Medjugorje — Church statements archive (Zadar Declaration 1991; Bertone letter 1998; Viganò letter 2013)",
+      "url": "http://www.miraclehunter.com/marian_apparitions/statements/medjugorje_statement_01.html",
+      "publisher": "Miracle Hunter",
+      "type": "archive",
+      "publisherNote": "An independent apparition-cataloguing site hosting document texts — a labeled mirror, not an institutional archive. For the Zadar Declaration, the Bertone letter and the Viganò letter no primary institutional hosting is online, so these key texts rest on mirrors like this one; the 19–1 Zadar vote figure comes from secondary accounts, not the declaration text."
+    },
+    {
+      "id": "catholicculture-peric-1997",
+      "title": "Bishop Ratko Perić, letter to Thierry Boutet on Medjugorje (2 October 1997)",
+      "url": "https://www.catholicculture.org/culture/library/view.cfm?recnum=317",
+      "publisher": "Catholic Culture library",
+      "type": "archive",
+      "publisherNote": "Document mirror maintained by a conservative Catholic publisher — labeled as a mirror; the diocesan original is not reachable online."
+    },
+    {
+      "id": "catholicculture-vlasic-2008",
+      "title": "CDF decree concerning Fr. Tomislav Vlašić (25 January 2008), as published by the Diocese of Mostar-Duvno",
+      "url": "https://www.catholicculture.org/culture/library/view.cfm?recnum=8411",
+      "publisher": "Catholic Culture library",
+      "type": "archive",
+      "publisherNote": "Mirror of the diocesan publication of the CDF decree (Prot. 144/1985, with the CDF's authorization letter of 30 May 2008) — labeled as a mirror; the diocesan site is unreachable from this environment."
+    },
+    {
+      "id": "catholicculture-ruini-2014",
+      "title": "Vatican commission completes study of Medjugorje (January 2014)",
+      "url": "https://www.catholicculture.org/news/headlines/index.cfm?storyid=20239",
+      "publisher": "Catholic Culture news",
+      "type": "news",
+      "publisherNote": "News confirmation of the Ruini commission's final meeting and delivery — cited because no press-office bulletin exists for 17–18 January 2014 (checked for this dataset)."
+    },
+    {
+      "id": "medjugorjedocs-zanic-1990",
+      "title": "Bishop Pavao Žanić, 'The Truth About Medjugorje' (1990)",
+      "url": "https://medjugorjedocuments.blogspot.com/2008/09/truth-about-medjugorje-by-bishop-pavao.html",
+      "publisher": "Official Documents on Medjugorje blog",
+      "type": "archive",
+      "publisherNote": "A document-mirror blog with critical-leaning curation — labeled as a mirror. Also the source for the 1982–1986 commission history as told in the bishop's own statement; a second mirror (sanctepater.com) returned 503 when checked."
+    },
+    {
+      "id": "medjugorjedocs-vlasic-2009",
+      "title": "Fr. Tomislav Vlašić OFM laicized by the Holy See (OFM notification, prot. 098714; July 2009)",
+      "url": "https://medjugorjedocuments.blogspot.com/2009/07/fr-tomislav-vlasic-ofm-laicized-by-holy.html",
+      "publisher": "Official Documents on Medjugorje blog",
+      "type": "archive",
+      "publisherNote": "Document-mirror blog, critical-leaning curation — labeled as a mirror; carries the OFM notification of the laicization."
+    },
+    {
+      "id": "romanis-pontificibus-text",
+      "title": "The 1975 Decree — Romanis Pontificibus (Paul VI, 6 June 1975)",
+      "url": "https://medjugorjedocuments.blogspot.com/2010/11/1975-decree-romanis-pontificibus.html",
+      "publisher": "Official Documents on Medjugorje blog",
+      "type": "archive",
+      "publisherNote": "Document-mirror blog hosting the decree text — labeled as a mirror; no primary hosting online."
+    },
+    {
+      "id": "medjugorje-hr-bishops",
+      "title": "Stance of the Bishop of Mostar (Žanić's 1981 statements)",
+      "url": "http://www.medjugorje.hr/en/medjugorje-phenomenon/church/bishops/mostar/",
+      "publisher": "Information Centre 'Mir' Medjugorje",
+      "type": "web",
+      "publisherNote": "The shrine's own site — pro-apparition perspective, and the only reachable source for Bishop Žanić's 1981 quotes, which it pairs with a contested 'secret-police pressure' explanation of his reversal. Cited for the quotes; the framing is attributed to it."
+    },
+    {
+      "id": "ewtn-zadar",
+      "title": "Medjugorje (Alleged Apparition) — documents and commission history",
+      "url": "https://www.ewtn.com/catholicism/answers/medjugorje-21353",
+      "publisher": "EWTN",
+      "type": "web",
+      "publisherNote": "An apologetics outlet's reference page hosting the Zadar 1991 text, the 1987 communiqué excerpts and the commission history — a labeled mirror with a sympathetic-to-official perspective."
+    },
+    {
+      "id": "cna-ruini-2017",
+      "title": "Medjugorje: the findings of the Ruini report (Tornielli, 16 May 2017)",
+      "url": "https://www.catholicnewsagency.com/news/36051/medjugorje-the-findings-of-the-ruini-report",
+      "publisher": "Catholic News Agency",
+      "type": "news",
+      "publisherNote": "Mirror of Andrea Tornielli's Vatican Insider/La Stampa report — leak journalism about an unpublished document, never confirmed by publication. Every vote figure in this dataset traces here and is labeled leak-reported."
+    },
+    {
+      "id": "cwr-peric-2017",
+      "title": "Local bishop: 'The Madonna has not appeared in Medjugorje' (28 February 2017)",
+      "url": "https://www.catholicworldreport.com/2017/02/28/local-bishop-the-madonna-has-not-appeared-in-medjugorje/",
+      "publisher": "Catholic World Report",
+      "type": "news",
+      "publisherNote": "Catholic news outlet; the carrier of Bishop Perić's 26 February 2017 statement, the diocesan site (md-tm.ba) being unreachable from this session."
+    },
+    {
+      "id": "cwr-pilgrimages-2019",
+      "title": "Pope permits pilgrimages to Medjugorje as apparitions continue to be studied (12 May 2019)",
+      "url": "https://www.catholicworldreport.com/2019/05/12/pope-permits-pilgrimages-to-medjugorje-as-apparitions-continue-to-be-studied/",
+      "publisher": "Catholic World Report",
+      "type": "news",
+      "publisherNote": "Catholic news outlet, quoting the Gisotti caveat; careful 'alleged' framing."
+    },
+    {
+      "id": "cwr-mirjana-2020",
+      "title": "Medjugorje 'visionary' says monthly apparitions have come to an end (18 March 2020)",
+      "url": "https://www.catholicworldreport.com/2020/03/18/medjugorje-visionary-says-monthly-apparitions-have-come-to-an-end/",
+      "publisher": "Catholic World Report",
+      "type": "news",
+      "publisherNote": "Catholic news outlet with careful 'alleged' framing — the record for the 1987 start and 2020 end of Mirjana's reported 2nd-of-the-month apparitions."
+    },
+    {
+      "id": "cwr-vlasic-2020",
+      "title": "Former spiritual director of Medjugorje visionaries excommunicated (23 October 2020)",
+      "url": "https://www.catholicworldreport.com/2020/10/23/former-spiritual-director-of-medjugorje-visionaries-excommunicated/",
+      "publisher": "Catholic World Report",
+      "type": "news",
+      "publisherNote": "Reports the CDF decree of 15 July 2020 as announced by the Diocese of Brescia; the decree itself was not directly reached for this dataset."
+    },
+    {
+      "id": "crux-vlasic-2020",
+      "title": "Former spiritual adviser to Medjugorje visionaries excommunicated (October 2020)",
+      "url": "https://cruxnow.com/church-in-europe/2020/10/former-spiritual-adviser-to-medjugorje-visionaries-excommunicated",
+      "publisher": "Crux",
+      "type": "news",
+      "publisherNote": "Independent Catholic news outlet; second witness for the 2020 excommunication decree's announcement."
+    },
+    {
+      "id": "cwr-hoser-obit",
+      "title": "Archbishop Henryk Hoser, papal envoy to Medjugorje, has died (14 August 2021)",
+      "url": "https://www.catholicworldreport.com/2021/08/14/archbishop-henryk-hoser-papal-envoy-to-medjugorje-has-died/",
+      "publisher": "Catholic World Report",
+      "type": "news",
+      "publisherNote": "Obituary; also a witness for the 2017 envoy mission's pastoral framing and Hoser's pre-pandemic pilgrim estimate."
+    },
+    {
+      "id": "cna-vlasic-2009",
+      "title": "Pope Benedict laicizes priest connected to alleged Medjugorje apparitions (2009)",
+      "url": "https://www.ewtnnews.com/world/europe/pope-benedict-laicizes-priest-connected-to-alleged-medjugorje-apparitions?redirectedfrom=cna",
+      "publisher": "CNA via EWTN News",
+      "type": "news",
+      "publisherNote": "Catholic news mirror of the 2009 laicization reporting."
+    },
+    {
+      "id": "bishop-accountability-vlasic",
+      "title": "Ex-Spiritual Director to Medjugorje Visionaries Laicized (Caldwell, Florida Catholic, 28 July 2009)",
+      "url": "https://www.bishop-accountability.org/news2009/07_08/2009_07_28_Caldwell_ExSpiritual.htm",
+      "publisher": "BishopAccountability.org",
+      "type": "archive",
+      "publisherNote": "A documentary archive on clergy-abuse cases, preserving the Florida Catholic report — quotes the 2008 interdict text and carries the Vlašić case chronology."
+    },
+    {
+      "id": "wrsp-margry",
+      "title": "Our Lady of Medjugorje (Peter Jan Margry)",
+      "url": "https://wrldrels.org/2026/05/19/our-lady-of-medjugorje/",
+      "publisher": "World Religions and Spirituality Project",
+      "type": "academic",
+      "publisherNote": "Scholarly profile by an ethnologist of pilgrimage — critical-neutral perspective, with the fullest day-by-day timeline of June–August 1981 reached for this dataset."
+    },
+    {
+      "id": "perica-balkan-idols",
+      "title": "Balkan Idols: Religion and Nationalism in Yugoslav States — ch. 'Mary-making in Herzegovina'",
+      "url": "https://archive.org/details/balkanidolsrelig0000peri",
+      "publisher": "Vjekoslav Perica — Oxford University Press, 2002",
+      "type": "book",
+      "publisherNote": "Academic history, critical of the phenomenon's nationalist entanglement; the best academic anchor for the communist-era prosecutions and the war years."
+    },
+    {
+      "id": "kraljevic-1984",
+      "title": "The Apparitions of Our Lady at Medjugorje",
+      "url": "https://archive.org/details/apparitionsofour00kral",
+      "publisher": "Svetozar Kraljević — Franciscan Herald Press, 1984",
+      "type": "book",
+      "publisherNote": "Sympathetic early Franciscan account with seer interviews — a participant tradition's book, cited for what the early reports said, not as verification of them."
+    },
+    {
+      "id": "laurentin-13-years",
+      "title": "Medjugorje: Thirteen Years Later",
+      "url": "https://archive.org/details/medjugorjethirte0000laur",
+      "publisher": "René Laurentin",
+      "type": "book",
+      "publisherNote": "The leading sympathetic theologian of the phenomenon — a promoter's book, labeled as such."
+    },
+    {
+      "id": "theotokos-foley",
+      "title": "Medjugorje Revisited: 30 Years of Visions or Religious Fraud?",
+      "url": "http://theotokos.org.uk/medjugorje-revisited/",
+      "publisher": "Donal Anthony Foley — Theotokos Books, 2011",
+      "type": "book",
+      "publisherNote": "Critical Catholic scholarship — labeled as such."
+    },
+    {
+      "id": "corvaglia-site",
+      "title": "Medjugorje dossier",
+      "url": "https://www.marcocorvaglia.com/medjugorje-en/",
+      "publisher": "Marco Corvaglia",
+      "type": "web",
+      "publisherNote": "A critical/skeptical researcher's site — labeled as such; notable for its analysis of the taped early interviews of the seers."
+    },
+    {
+      "id": "ncregister-visionaries",
+      "title": "Medjugorje's Alleged Visionaries: Where Are They Today? (21 September 2024)",
+      "url": "https://www.ncregister.com/news/medjugorjes-alleged-visionaries",
+      "publisher": "National Catholic Register",
+      "type": "news",
+      "publisherNote": "EWTN outlet, sympathetic in tone; its seer life-data draws on devotional sites, so every biographical detail resting on it is flagged as devotional-sourced. Returns 403 to plain fetches; needs a browser User-Agent."
+    },
+    {
+      "id": "cna-explainer",
+      "title": "Medjugorje: What Catholics should know about the alleged Marian apparitions",
+      "url": "https://www.ewtnnews.com/world/europe/medjugorje-what-catholics-should-know-about-the-alleged-marian-apparitions",
+      "publisher": "CNA via EWTN News",
+      "type": "news",
+      "publisherNote": "Explainer including the Ruini-commission leak summary and the circulating pilgrim totals — a sympathetic outlet with careful 'alleged' framing."
+    },
+    {
+      "id": "nbc-caritas-2012",
+      "title": "Visions of Virgin Mary draw thousands to Alabama (6 July 2012)",
+      "url": "https://www.nbcnews.com/id/wbna48100299",
+      "publisher": "NBC News",
+      "type": "news",
+      "publisherNote": "Secular reporting on Caritas of Birmingham, including the ex-member lawsuits — the independent witness for the disambiguation this dataset carries."
+    },
+    {
+      "id": "medjugorje-ws-caritas",
+      "title": "Caritas of Birmingham and 'A Friend of Medjugorje'",
+      "url": "https://www.medjugorje.ws/en/articles/caritas-of-birmingham/",
+      "publisher": "Medjugorje WebSite",
+      "type": "web",
+      "publisherNote": "A pro-Medjugorje devotional site that is itself critical of Caritas of Birmingham — useful precisely for the disambiguation, since the warning comes from inside the devotion. Returns 403 without a browser User-Agent."
+    },
+    {
+      "id": "medjugorje-ws-barbaric",
+      "title": "Fr. Slavko Barbarić, OFM — Curriculum Vitae",
+      "url": "https://www.medjugorje.ws/en/articles/slavko-barbaric-ofm-curriculum-vitae/",
+      "publisher": "Medjugorje WebSite",
+      "type": "web",
+      "publisherNote": "Devotional site — the only source in this dataset for Barbarić's life data, which is flagged accordingly. Returns 403 without a browser User-Agent."
+    },
+    {
+      "id": "medjugorje-ws",
+      "title": "Medjugorje messages archive",
+      "url": "https://www.medjugorje.ws/en/messages/",
+      "publisher": "Medjugorje WebSite",
+      "type": "web",
+      "publisherNote": "An independent devotional archive republishing the message corpus in some 40 languages — unofficial, labeled as devotional; the source for the message-series start dates, which rest on devotional literature only and are flagged. Returns 403 without a browser User-Agent."
+    },
+    {
+      "id": "medjugorje-hr",
+      "title": "Medjugorje — official shrine site",
+      "url": "https://medjugorje.hr/en/",
+      "publisher": "Information Centre 'Mir' Medjugorje",
+      "type": "web",
+      "publisherNote": "The shrine's own site — sympathetic by nature; the publisher of the monthly reported messages and of the Communion/concelebration statistics the Vatican quoted in 2024. JavaScript-heavy and renders minimal content to plain fetches; needs a browser User-Agent, and a Wayback snapshot is recommended."
+    },
+    {
+      "id": "unam-sanctam-herzegovina",
+      "title": "Medjugorje: Understanding the Herzegovina Question (24 September 2024)",
+      "url": "https://unamsanctamcatholicam.com/2024/09/24/medjugorje-understanding-the-herzegovina-question/",
+      "publisher": "Unam Sanctam Catholicam",
+      "type": "web",
+      "publisherNote": "A traditionalist-critical essay on the Franciscan-diocesan conflict — labeled as such; used for the Herzegovina-affair background, with the decree cited separately to its text."
+    },
+    {
+      "id": "retractionwatch-bax",
+      "title": "Dutch anthropologist Mart Bax faked 61 papers, says university (23 September 2013)",
+      "url": "https://retractionwatch.com/2013/09/23/dutch-anthropologist-mart-bax-faked-61-papers-says-university/",
+      "publisher": "Retraction Watch",
+      "type": "report",
+      "publisherNote": "Reports the VU Amsterdam integrity inquiry's finding that Bax's work — including his wartime-Medjugorje ethnography — was very likely fabricated. Cited so that the fabricated literature is excluded on the record rather than silently."
+    }
+  ]
+}
