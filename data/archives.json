@@ -1,6 +1,6 @@
 {
   "generatedBy": "scripts/archive-refs.js",
-  "updatedAt": "2026-08-17",
+  "updatedAt": "2026-08-24",
   "snapshots": {
     "http://theotokos.org.uk/medjugorje-revisited/": {
       "refId": "theotokos-foley",
@@ -152,6 +152,12 @@
       "timestamp": "20251111054741",
       "checkedAt": "2026-08-11"
     },
+    "https://www.ewtn.com/catholicism/answers/medjugorje-21353": {
+      "refId": "ewtn-zadar",
+      "archiveUrl": "https://web.archive.org/web/20251218062315/https://www.ewtn.com/catholicism/answers/medjugorje-21353",
+      "timestamp": "20251218062315",
+      "checkedAt": "2026-08-24"
+    },
     "https://www.ewtnnews.com/world/europe/medjugorje-what-catholics-should-know-about-the-alleged-marian-apparitions": {
       "refId": "cna-explainer",
       "archiveUrl": "https://web.archive.org/web/20260128174234/https://www.ewtnnews.com/world/europe/medjugorje-what-catholics-should-know-about-the-alleged-marian-apparitions",
@@ -182,6 +188,12 @@
       "timestamp": "20260809123941",
       "checkedAt": "2026-08-11"
     },
+    "https://www.nbcnews.com/id/wbna48100299": {
+      "refId": "nbc-caritas-2012",
+      "archiveUrl": "https://web.archive.org/web/20260824073118/https://www.nbcnews.com/id/wbna48100299",
+      "timestamp": "20260824073118",
+      "checkedAt": "2026-08-24"
+    },
     "https://www.ncregister.com/news/medjugorjes-alleged-visionaries": {
       "refId": "ncregister-visionaries",
       "archiveUrl": "https://web.archive.org/web/20260803185658/https://www.ncregister.com/news/medjugorjes-alleged-visionaries",
@@ -193,6 +205,12 @@
       "archiveUrl": "https://web.archive.org/web/20260302072827/https://www.vatican.va/content/francesco/en/speeches/2017/may/documents/papa-francesco_20170513_voloritorno-fatima.html",
       "timestamp": "20260302072827",
       "checkedAt": "2026-08-11"
+    },
+    "https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_ddf_doc_20240517_norme-fenomeni-soprannaturali_en.html": {
+      "refId": "ddf-norms-2024",
+      "archiveUrl": "https://web.archive.org/web/20260820103848/https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_ddf_doc_20240517_norme-fenomeni-soprannaturali_en.html",
+      "timestamp": "20260820103848",
+      "checkedAt": "2026-08-24"
     },
     "https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_ddf_doc_20240919_nota-esperienza-medjugorje_en.html": {
       "refId": "ddf-note-2024",
