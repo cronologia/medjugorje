@@ -1,6 +1,6 @@
 {
   "generatedBy": "scripts/archive-refs.js",
-  "updatedAt": "2026-08-24",
+  "updatedAt": "2026-08-31",
   "snapshots": {
     "http://theotokos.org.uk/medjugorje-revisited/": {
       "refId": "theotokos-foley",
@@ -163,6 +163,12 @@
       "archiveUrl": "https://web.archive.org/web/20260128174234/https://www.ewtnnews.com/world/europe/medjugorje-what-catholics-should-know-about-the-alleged-marian-apparitions",
       "timestamp": "20260128174234",
       "checkedAt": "2026-08-11"
+    },
+    "https://www.ewtnnews.com/world/europe/pope-benedict-laicizes-priest-connected-to-alleged-medjugorje-apparitions?redirectedfrom=cna": {
+      "refId": "cna-vlasic-2009",
+      "archiveUrl": "https://web.archive.org/web/20260831135529/https://www.ewtnnews.com/world/europe/pope-benedict-laicizes-priest-connected-to-alleged-medjugorje-apparitions?redirectedfrom=cna",
+      "timestamp": "20260831135529",
+      "checkedAt": "2026-08-31"
     },
     "https://www.marcocorvaglia.com/medjugorje-en/": {
       "refId": "corvaglia-site",
