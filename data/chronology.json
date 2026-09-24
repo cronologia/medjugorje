@@ -94,7 +94,8 @@
       "value": "Since 2018 the parish has had an Apostolic Visitor of a special character, appointed ad nutum Sanctae Sedis (at the Holy See's pleasure) with 'an exclusively pastoral office': Archbishop Henryk Hoser from May 2018 until his death in August 2021, Archbishop Aldo Cavalli since November 2021. The office was created alongside, not in place of, the Diocese of Mostar-Duvno's ordinary jurisdiction.",
       "sources": [
         "holysee-hoser-2018",
-        "ddf-press-conf-2024"
+        "ddf-press-conf-2024",
+        "holysee-bulletin-2021-11-27"
       ]
     },
     {
@@ -662,12 +663,13 @@
     {
       "year": 2021,
       "date": "2021-11-27",
-      "dateVerified": false,
-      "dateNote": "The appointment date is per the Holy See daily bulletin of 27 November 2021, which was not directly reached for this dataset; Cavalli's role is confirmed as of 2024 by the DDF press conference. Flagged until the bulletin is cited directly.",
+      "dateVerified": true,
       "place": "Rome",
       "title": "Cavalli appointed Apostolic Visitor",
       "text": "Pope Francis appoints Archbishop Aldo Cavalli — a career Vatican diplomat, formerly nuncio to the Netherlands among other posts — Apostolic Visitor of a special character for Medjugorje, ad nutum Sanctae Sedis, succeeding the late Archbishop Hoser. Cavalli holds the office through the 2024 nihil obstat, which assigns the Visitor new duties over the publication of reported messages.",
       "sources": [
+        "holysee-bulletin-2021-11-27",
+        "vaticannews-2021-11-27-cavalli",
         "ddf-press-conf-2024"
       ]
     },
@@ -814,6 +816,7 @@
       "dates": "b. 18 October 1946, Lecco",
       "country": "Italy",
       "sources": [
+        "vaticannews-2021-11-27-cavalli",
         "ddf-press-conf-2024",
         "ddf-note-2024"
       ]
@@ -1277,6 +1280,22 @@
       "publisher": "Retraction Watch",
       "type": "report",
       "publisherNote": "Reports the VU Amsterdam integrity inquiry's finding that Bax's work — including his wartime-Medjugorje ethnography — was very likely fabricated. Cited so that the fabricated literature is excluded on the record rather than silently."
+    },
+    {
+      "id": "holysee-bulletin-2021-11-27",
+      "title": "Rinunce e nomine, 27.11.2021 [B0791] — Nomina del Visitatore Apostolico a carattere speciale per la Parrocchia di Medjugorje",
+      "url": "https://press.vatican.va/content/salastampa/it/bollettino/pubblico/2021/11/27/0791/01668.html",
+      "publisher": "Holy See Press Office",
+      "publisherNote": "The daily bulletin recording the appointment \"a tempo indeterminato e ad nutum Sanctae Sedis\"; it does not mention Hoser. Requires a browser User-Agent to fetch.",
+      "type": "official"
+    },
+    {
+      "id": "vaticannews-2021-11-27-cavalli",
+      "title": "L’arcivescovo Aldo Cavalli nominato dal Papa visitatore apostolico a Medjugorje",
+      "url": "https://www.vaticannews.va/it/papa/news/2021-11/papa-francesco-nomina-aldo-cavalli-visitatore-medjugorje.html",
+      "publisher": "Vatican News",
+      "publisherNote": "The Holy See’s news portal; source for Cavalli’s birth (18 October 1946, Muggianico di Lecco) and for his succeeding Hoser, which the bulletin does not state.",
+      "type": "official"
     }
   ]
 }
