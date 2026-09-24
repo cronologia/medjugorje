@@ -1,7 +1,7 @@
 {
   "_meta": {
     "targetLang": "pt",
-    "coverage": "258/258",
+    "coverage": "259/259",
     "generatedBy": "hand-authored by the assistant (Claude) during the 2026-08-11 bootstrap — NOT produced by scripts/translate.js",
     "note": "Exact-key dictionary over data/chronology.json. English is authoritative; re-author these entries whenever the English prose changes. Proper names, reference titles/publishers, URLs, dates and ids are never translated.",
     "humanReviewed": false
@@ -177,7 +177,8 @@
     "Warsaw": "Varsóvia",
     "Archbishop Hoser dies in office": "O arcebispo Hoser morre no cargo",
     "Archbishop Henryk Hoser SAC — physician, Pallottine missionary in Rwanda for two decades, Bishop of Warszawa-Praga 2008–2017, and the Holy See's man in Medjugorje since 2017 — dies in Warsaw aged 78, still Apostolic Visitor.": "O arcebispo Henryk Hoser SAC — médico, missionário palotino em Ruanda por duas décadas, bispo de Warszawa-Praga de 2008 a 2017 e o homem da Santa Sé em Medjugorje desde 2017 — morre em Varsóvia aos 78 anos, ainda Visitador Apostólico.",
-    "The appointment date is per the Holy See daily bulletin of 27 November 2021, which was not directly reached for this dataset; Cavalli's role is confirmed as of 2024 by the DDF press conference. Flagged until the bulletin is cited directly.": "A data da nomeação é conforme o boletim diário da Santa Sé de 27 de novembro de 2021, que não foi alcançado diretamente para este conjunto de dados; o papel de Cavalli está confirmado, em 2024, pela coletiva de imprensa do DDF. Sinalizado até que o boletim seja citado diretamente.",
+    "The daily bulletin recording the appointment \"a tempo indeterminato e ad nutum Sanctae Sedis\"; it does not mention Hoser. Requires a browser User-Agent to fetch.": "O boletim diário que registra a nomeação «a tempo indeterminato e ad nutum Sanctae Sedis»; não menciona Hoser. Exige um User-Agent de navegador para ser baixado.",
+    "The Holy See’s news portal; source for Cavalli’s birth (18 October 1946, Muggianico di Lecco) and for his succeeding Hoser, which the bulletin does not state.": "O portal de notícias da Santa Sé; fonte do nascimento de Cavalli (18 de outubro de 1946, Muggianico di Lecco) e de sua sucessão a Hoser, que o boletim não menciona.",
     "Cavalli appointed Apostolic Visitor": "Cavalli nomeado Visitador Apostólico",
     "Pope Francis appoints Archbishop Aldo Cavalli — a career Vatican diplomat, formerly nuncio to the Netherlands among other posts — Apostolic Visitor of a special character for Medjugorje, ad nutum Sanctae Sedis, succeeding the late Archbishop Hoser. Cavalli holds the office through the 2024 nihil obstat, which assigns the Visitor new duties over the publication of reported messages.": "O papa Francisco nomeia o arcebispo Aldo Cavalli — diplomata de carreira do Vaticano, ex-núncio nos Países Baixos, entre outros postos — Visitador Apostólico de caráter especial para Medjugorje, ad nutum Sanctae Sedis, sucedendo ao falecido arcebispo Hoser. Cavalli ocupa o ofício ao longo do nihil obstat de 2024, que atribui ao Visitador novos deveres sobre a publicação das mensagens relatadas.",
     "The DDF Note 'The Queen of Peace': nihil obstat — and expressly not a supernaturality declaration": "A Nota do DDF «A Rainha da Paz»: nihil obstat — e expressamente não uma declaração de sobrenaturalidade",
