@@ -1,7 +1,7 @@
 {
   "_meta": {
     "targetLang": "es",
-    "coverage": "259/259",
+    "coverage": "265/265",
     "generatedBy": "hand-authored by the assistant (Claude) during the 2026-08-11 bootstrap — NOT produced by scripts/translate.js",
     "note": "Exact-key dictionary over data/chronology.json. English is authoritative; re-author these entries whenever the English prose changes. Proper names, reference titles/publishers, URLs, dates and ids are never translated.",
     "humanReviewed": false
@@ -265,6 +265,12 @@
     "An independent devotional archive republishing the message corpus in some 40 languages — unofficial, labeled as devotional; the source for the message-series start dates, which rest on devotional literature only and are flagged. Returns 403 without a browser User-Agent.": "Un archivo devocional independiente que republica el corpus de mensajes en unas 40 lenguas — no oficial, señalado como devocional; la fuente de las fechas de inicio de las series de mensajes, que descansan solo en literatura devocional y están marcadas. Devuelve 403 sin un User-Agent de navegador.",
     "The shrine's own site — sympathetic by nature; the publisher of the monthly reported messages and of the Communion/concelebration statistics the Vatican quoted in 2024. JavaScript-heavy and renders minimal content to plain fetches; needs a browser User-Agent, and a Wayback snapshot is recommended.": "El sitio propio del santuario — simpatizante por naturaleza; el editor de los mensajes mensuales reportados y de las estadísticas de comuniones/concelebraciones que el Vaticano citó en 2024. Cargado de JavaScript y renderiza contenido mínimo a las descargas simples; necesita un User-Agent de navegador, y se recomienda una instantánea de Wayback.",
     "A traditionalist-critical essay on the Franciscan-diocesan conflict — labeled as such; used for the Herzegovina-affair background, with the decree cited separately to its text.": "Un ensayo tradicionalista-crítico sobre el conflicto franciscano-diocesano — señalado como tal; usado para el trasfondo de la cuestión de Herzegovina, con el decreto citado por separado a su texto.",
-    "Reports the VU Amsterdam integrity inquiry's finding that Bax's work — including his wartime-Medjugorje ethnography — was very likely fabricated. Cited so that the fabricated literature is excluded on the record rather than silently.": "Reporta la conclusión de la investigación de integridad de la VU de Ámsterdam de que la obra de Bax — incluida su etnografía del Medjugorje de guerra — fue muy probablemente fabricada. Citado para que la literatura fabricada quede excluida con constancia, y no en silencio."
+    "Reports the VU Amsterdam integrity inquiry's finding that Bax's work — including his wartime-Medjugorje ethnography — was very likely fabricated. Cited so that the fabricated literature is excluded on the record rather than silently.": "Reporta la conclusión de la investigación de integridad de la VU de Ámsterdam de que la obra de Bax — incluida su etnografía del Medjugorje de guerra — fue muy probablemente fabricada. Citado para que la literatura fabricada quede excluida con constancia, y no en silencio.",
+    "Parish of the Diocese of Mostar-Duvno, staffed by Herzegovinian Franciscans": "Parroquia de la diócesis de Mostar-Duvno, atendida por franciscanos de Herzegovina",
+    "Ancient see; the local ordinary's jurisdiction covers Medjugorje": "Sede antigua; la jurisdicción del ordinario local abarca Medjugorje",
+    "Custody since Ottoman times; province seated at Mostar": "Custodia desde la época otomana; provincia con sede en Mostar",
+    "The shrine's own information office": "La oficina de información del propio santuario",
+    "1986, by layman Terry Colafrancesco": "1986, por el laico Terry Colafrancesco",
+    "1980s, Italy, by Tomislav Vlašić": "Década de 1980, Italia, por Tomislav Vlašić"
   }
 }
